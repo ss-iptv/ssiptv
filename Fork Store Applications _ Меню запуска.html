@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- saved from url=(0023)http://smart.obovse.ru/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">     
+	
+	<link rel="stylesheet" type="text/css" href="./Fork Store Applications _ Меню запуска_files/main.css">
+<script language="JavaScript">
+if(document.location.href.indexOf("obovse.ru")==-1){
+		document.location="http://smart.obovse.ru/";
+	}
+var autoload="";
+
+readC = function(name) {
+	var matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+	return matches ? decodeURIComponent(matches[1]) : ""; 
+}
+
+writeC = function(name, value) {
+	props = {path:"/",expires:99999999};
+	var exp = props.expires;
+	if (typeof exp == "number" && exp) {
+		var d = new Date();
+		d.setTime(d.getTime() + exp*1000);
+		exp = props.expires = d;
+	}
+	if(exp && exp.toUTCString) { props.expires = exp.toUTCString(); }
+
+	value = encodeURIComponent(value);
+	var updatedCookie = name + "=" + value;
+	console.log("uc="+updatedCookie);
+	for(var propName in props){
+		updatedCookie += "; " + propName;
+		var propValue = props[propName];
+		if(propValue !== true){ updatedCookie += "=" + propValue; };
+	}
+	document.cookie = updatedCookie;
+}
+</script>
+	<script src="./Fork Store Applications _ Меню запуска_files/app.js.baixados"></script>
+    <title>Fork Store Applications / Меню запуска</title>   
+</head>
+<body id="mainb" onload="" style="background-color:#1358B7;background-image:url(fon_mag.jpg);color:#FFFFFF;margin:0px;padding:0px;overflow:hidden;font-size:18px;">
+<div id="main" style="width:100%;height:100%;margin:5px;">
+
+	<div id="top_rek" style="float:left;width:390px;height:380px;margin:3px;overflow:hidden;text-align:center;">
+		<div id="header" style="width:100%;margin:2px 5px;font-size:23px;background-image:url(head.png);">
+Fork Store Applications / Меню запуска
+</div>
+<div id="rek" style="width:380px;height:370px;margin:3px;border-radius:7px;overflow:hidden;">
+			<img src="./Fork Store Applications _ Меню запуска_files/rek.gif" width="380" height="334">
+		</div>
+	</div>
+	<div id="top_app" style="float:left;width:35%;height:370px;margin:3px;overflow:hidden;"><div style="width:680px;height:26px;padding:0px 2px 0px 15px;color:#FFFFFF;font-size:22px;background-color: #9C4857;overflow:hidden;">			Рекомендованные приложения		</div><div onmouseover="select=0;list();" id="app0" onclick="open_app();" class="linkapp" style="height: 103px; margin: 2px 0px; border-radius: 7px; padding: 1px; background-color: rgb(41, 59, 73); border: 3px solid transparent;"><img style="float:left;margin-right:5px;border-radius:3px;" width="104" height="100" src="./Fork Store Applications _ Меню запуска_files/fork_logo.png">01.07.2021<br><b>Fork Player 2.5</b><br>Самая свежая и полная версия<br>Сервер 1</div><div onmouseover="select=1;list();" id="app1" onclick="open_app();" class="linkapp" style="height: 103px; margin: 2px 0px; border-radius: 7px; padding: 1px; background-color: rgb(41, 59, 73); border: 3px solid transparent;"><img style="float:left;margin-right:5px;border-radius:3px;" width="104" height="100" src="./Fork Store Applications _ Меню запуска_files/fork_logo.png">11.12.2021<br><b>ForkPlayer beta new</b><br>Новая тестовая версия</div><div onmouseover="select=2;list();" id="app2" onclick="open_app();" class="linkapp" style="height: 103px; margin: 2px 0px; border-radius: 7px; padding: 1px; background-color: rgb(41, 59, 73); border: 3px solid rgb(255, 71, 86);"><img style="float:left;margin-right:5px;border-radius:3px;" width="104" height="100" src="./Fork Store Applications _ Меню запуска_files/xsmart_2.0.png">08.11.2016<br><b>XSMART 3.0</b><br>Виджет XSMART 3</div></div>
+	<div id="top_news" style="float:left;width:30%;height:370px;margin:3px;overflow:hidden;">
+		<div style="width:680px;height:26px;padding:0px 2px 0px 15px;color:#FFFFFF;font-size:22px;background-color: #9C4857;overflow:hidden;">
+			Новости 
+		</div>
+		
+	<div style="margin:3px 0px;border-radius:7px;padding:3px;background-color: #293B49;">Сервер :<br><b>1</b><br></div></div>
+	<br clear="both">
+	<div id="other_app" style=""><div onmouseover="select=3;list();" id="app3" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/ott.png"><br><b>OTTPlayer</b><div style="font-size:15px;color:yellow;">Test</div></div><div onmouseover="select=4;list();" id="app4" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/logo.png"><br><b>Ott-play</b><div style="font-size:15px;color:yellow;"></div></div><div onmouseover="select=5;list();" id="app5" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/fork.png"><br><b>Fork Player 2.1</b><div style="font-size:15px;color:yellow;">Предыдущая версия</div></div><div onmouseover="select=6;list();" id="app6" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/forkph2010.png"><br><b>Fork Smart 2010</b><div style="font-size:15px;color:yellow;">ForkPlayer2.0</div></div><div onmouseover="select=7;list();" id="app7" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/ssiptv.jpg"><br><b>SS IPTV</b><div style="font-size:15px;color:yellow;"></div></div><div onmouseover="select=8;list();" id="app8" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/fork_logo.png"><br><b>Fork Player 2.5</b><div style="font-size:15px;color:yellow;">Сервер 2<br></div></div><div onmouseover="select=9;list();" id="app9" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/ico115x95.png"><br><b>RuCom.tv</b><div style="font-size:15px;color:yellow;"></div></div><div onmouseover="select=10;list();" id="app10" onclick="open_app();" class="linkapp" style="border: 3px solid transparent; text-align: center; height: 125px; width: 180px; margin: 0px; border-radius: 5px; padding: 2px 0px 0px; float: left; display: block;"><img style="border-radius:3px;" width="80" height="80" src="./Fork Store Applications _ Меню запуска_files/apploader.png"><br><b>URL loader</b><div style="font-size:15px;color:yellow;"></div></div></div>
+</div>
+<script>
+var gsl='Сервер :|1|||-|-01.07.2021|Fork Player 2.5|img/fork_logo.png|Самая свежая и полная версия<br>Сервер 1|http://obovse.ru/ForkPlayer2.5/index.html|[|]11.12.2021|ForkPlayer beta new|img/fork_logo.png|Новая тестовая версия|http://browser.appinfo.su/|[|]08.11.2016|XSMART 3.0|img/xsmart_2.0.png|Виджет XSMART 3|http://app.xsmart.tv/|[|]04.03.2015|OTTPlayer|img/ott.png|Test|http://widget.ottplayer.tv/index.html?forkstore|[|]08.11.2016|Ott-play|https://forum.ott-play.com/logo.png||http://ott-play.com/f/|[|]30.09.2014|Fork Player 2.1|img/fork.png|Предыдущая версия|http://obovse.ru/forkplayer/index.html|[|]2.09.2014|Fork Smart 2010|img/forkph2010.png|ForkPlayer2.0|http://obovse.ru/philips2010/index.html|[|]03.10.2014|SS IPTV|img/ssiptv.jpg||http://lg.ss-iptv.com/|[|]25.11.2014|Fork Player 2.5|img/fork_logo.png|Сервер 2<br>|http://getlist1.obovse.ru/ForkPlayer2.5/index.html|[|]25.11.2014|RuCom.tv|http://185.158.114.122/obovse.ru/widget/tmp/rucom_1.0/img/logo/ico115x95.png||http://79.98.29.139/rucomLG/index.html|[|]26.05.2016|URL loader|http://smart.obovse.ru/img/apploader.png||http://smart.obovse.ru/loader.php|';
+var vgl='LG';try{
+	var ipsync=localStorage.getItem("ipsync");
+	var syncapp=localStorage.getItem("syncapp");
+	if(typeof syncapp!="undefined") if(syncapp!=""){
+		if(gsl.indexOf(syncapp)==-1) gsl+=syncapp;
+	}
+}
+catch(e){}
+console.log("GSL="+gsl);
+init_app(gsl);
+</script>
+
+</body></html>
