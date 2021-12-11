@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <playlist_name>Добро пожаловать на SMART PORTAL!</playlist_name>
+  <all_channels>
+    <all_logo>http://media.4local.ru/uploads/fotos/foto_43389.png</all_logo>
+    <all_size />
+    <all_audiotrack_num />
+    <all_buffer />
+    <all_timeshift />
+  </all_channels>
+  <channel>
+    <title>ВОЙТИ НА ПОРТАЛ</title>
+<description><![CDATA[<td><center>Добро пожаловать на SmartPortal!
+
+<br>
+<img src='http://smart-portal.tk/ico/girl.png' height='380' width='480'></img></center>
+</td>]]>
+</description>
+<playlist_url>http://smart-portal.tk/portal/start.xml</playlist_url>
+  </channel>
+</items>

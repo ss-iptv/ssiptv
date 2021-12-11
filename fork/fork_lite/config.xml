@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.samsung.com/">
+	<type itemtype="string">user</type>
+	<previewjs itemtype="string">ForkLmod</previewjs>
+	<cpname itemtype="string"/>
+	<cplogo itemtype="string"/>
+	<cpauthjs itemtype="string"/>
+	<ver itemtype="string">3.4</ver>
+	<mgrver itemtype="string">1.000</mgrver>
+	<fullwidget itemtype="string">y</fullwidget>
+	<category itemtype="string">video</category>
+	<movie itemtype="string">y</movie>
+	<srcctl itemtype="string">y</srcctl>
+	<ticker itemtype="string">n</ticker>
+	<childlock itemtype="string">n</childlock>
+	<audiomute itemtype="string">n</audiomute>
+	<videomute itemtype="string">n</videomute>
+	<dcont itemtype="string">y</dcont>
+	<widgetname itemtype="string">ForkLmod</widgetname>
+	<description itemtype="string">Direct connect to video sites, search and play video</description>
+	<width itemtype="number">960</width>
+	<height itemtype="number">540</height>	
+	<ThumbIcon itemtype="string">icon/alexkdpu106_87.jpg</ThumbIcon>
+	<BigThumbIcon itemtype="string">icon/alexkdpu115_95.jpg</BigThumbIcon>
+	<ListIcon itemtype="string">icon/alexkdpu86_70.jpg</ListIcon>
+	<BigListIcon itemtype="string">icon/alexkdpu95_78.jpg</BigListIcon>
+	<author itemtype="group">
+		<name itemtype="string">alexkdpu</name>
+		<email itemtype="string">alexkdpu@ya.ru</email>
+		<link itemtype="string">http://obovse.ru</link>
+		<organization itemtype="string"/>
+	</author>
+</widget>

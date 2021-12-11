@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.samsung.com/">
+<ThumbIcon>icon/106.png</ThumbIcon>
+    <BigThumbIcon>icon/115.png</BigThumbIcon>
+    <ListIcon>icon/85.png</ListIcon>
+    <BigListIcon>icon/95.png</BigListIcon>
+    <category itemtype="string"/>
+    <type itemtype="string">user</type>
+    <cpname itemtype="string"/>
+    <cplogo itemtype="string"/>
+    <cpauthjs itemtype="string"/>
+    <ver itemtype="string"/>
+    <mgver itemtype="string"/>
+    <fullwidget itemtype="boolean">y</fullwidget>
+    <srcctl itemtype="boolean">y</srcctl>
+    <mouse itemtype="boolean">y</mouse>
+    <ticker itemtype="boolean">n</ticker>
+    <childlock itemtype="boolean">n</childlock>
+    <audiomute itemtype="boolean">n</audiomute>
+    <videomute itemtype="boolean">n</videomute>
+    <dcont itemtype="string">y</dcont>
+    <widgetname itemtype="string">ForkPlayer2.57m</widgetname>
+    <description itemtype="string"/>
+    <width itemtype="number">1280</width>
+    <height itemtype="number">720</height>
+    <deleteJS>reset</deleteJS>
+    <author itemtype="group">
+        <name itemtype="string">forkplayer.tv</name>
+        <email itemtype="string">alexkdpu@ya.ru</email>
+        <link itemtype="string"/>
+        <organization itemtype="string"/>
+    </author>
+</widget>
