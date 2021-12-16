@@ -3,11 +3,11 @@
 #PLAYLIST: ! Lançamentos 2021
 
 #EXTINF:0, John Wick 1.mp4
-http://podre.herokuapp.com/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
 #EXTINF:0, John Wick 2.mp4
-http://podre.herokuapp.com/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1ZlWuKjJSqvAdLSIxpDJ_GsbDKbsui3E9
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1ZlWuKjJSqvAdLSIxpDJ_GsbDKbsui3E9
 #EXTINF:0, John Wick 3.mp4
-http://podre.herokuapp.com/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
 #EXTINF:0, As Donas do Pedaço 2021 1080p WEB-DL DUAL.mkv
 https://lib-drive.herokuapp.com/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20As%20Donas%20do%20Peda%C3%A7o%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1NImPf7TRB9cVuYbDDlU6x80Afu-2kAmC
 #EXTINF:0, Asteroid.2021.720p.WEBRip.Legendado.mkv
