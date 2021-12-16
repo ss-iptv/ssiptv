@@ -4,7 +4,7 @@
 m3u:https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",FREEMIUM TV
-m3u:http://168.205.87.198:8555/get.php?username=1111&password=123456&type=m3u_plus
+m3u:https://elthondsaraujo.github.io/meu//listas/iptv-link.m3u
 
 #EXTINF:0 type="playlist" tvg-logo="",Pluto TV - Brasil
 m3u:https://elthondsaraujo.github.io/ssiptv/canais/pluto_tv.m3u
