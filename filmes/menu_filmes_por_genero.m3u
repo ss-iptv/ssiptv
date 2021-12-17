@@ -4,7 +4,7 @@
 m3u:https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/acao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",ANIMAÇÃO
-m3u:https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/animacao.m3u8
+m3u:https://elthondsaraujo.github.io//ssiptv/filmes/filmes_por_genero/animacao.m3u8
 
 #EXTINF:0 type="playlist" tvg-logo="",CLÁSSICOS
 m3u:https://elthondsaraujo.github.io/meu/ssiptv/filmes/filmes_por_genero/classicos.m3u8
