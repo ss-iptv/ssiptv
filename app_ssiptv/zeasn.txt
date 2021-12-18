@@ -1,0 +1,13 @@
+<div class="btnAddOpen add detailArea mouseSelected" tabindex="1" name="detailsOpenBtn" appid="20005517" isadult="0" filepath="https://cache.zeasn.tv/dev/adentry/2k18/transfer.html?OnlyTest=SS_IPTV_VIDEOPIP&amp;appUrl=http://app.ss-iptv.com/#opt=%7b%22target%22%3a%22NetTV%22%2c%22version%22%3a%221.0.0%22%2c%22keys%22%3a%5b%223442e65a04d5520cedf5f68ca4958d6567438c86%22%5d%7d" fid="20005517" haskey="0"></div>
+
+
+
+
+https://acc-smarttv.zeasn.tv/BluePortServlets/api/app/regist?productId=52&categoryId=d124eb98e5ed11e7936b06bc92f2b7c5&deviceId=1000000001&manufacturerId=0008c6&mac=00:00:00:00:00:01&comsumerId=1000000001&areaCode=Global&langCode=Global
+https://acc-smarttv.zeasn.tv/BluePortServlets/api/app/search?
+https://acc-smarttv.zeasn.tv/BluePortServlets/linux/app/getHotWord?
+https://acc-smarttv.zeasn.tv/BluePortServlets/linux/app/regist?productId=48&categoryId=0b6d2196a42811e78aca06bc92f2b7c5&deviceId=1000000000&manufacturerId=0008c6&mac=00:00:00:00:00:00&comsumerId=1000000000&areaCode=Global&langCode=Global
+https://smarttv.zeasn.tv/BluePortServlets/a1/
+https://smarttv.zeasn.tv/BluePortServlets/a1/applist?areaCode=Global&lang=EN&clientType=KonkaRTK2831default&pageNum=0&pageSize=20&productId=82&recommend=yes&tvType=Android&iconResolution=300*300
+https://smarttv.zeasn.tv/BluePortServlets/a1/getStoreAppByPackageName?areaCode=ZZ&lang=en&clientType=KonkaRTK2831default&tvType=Android&packageName=
+ aoc productid=7

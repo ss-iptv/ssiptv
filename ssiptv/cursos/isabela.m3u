@@ -1,0 +1,22 @@
+ #EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Matemática Ferreto
+https://ss-iptv.github.io/meu/ssiptv/cursos/isabela/ferreto.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Direito Administrativo - Larissa Carvalho
+https://ss-iptv.github.io/meu/ssiptv/cursos/pcsp/administrativo.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Direito Constitucional - André Adriano
+https://ss-iptv.github.io/meu/ssiptv/cursos/pcsp/administrativo.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Direito Penal - Roberto Fernandes
+https://ss-iptv.github.io/meu/ssiptv/cursos/pcsp/penal.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Direito Processual Penal - Norberto Florindo
+https://ss-iptv.github.io/meu/ssiptv/cursos/pcsp/processo_penal.m3u8
+
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Informática - Cid Marques
+https://ss-iptv.github.io/meu/ssiptv/cursos/pcsp/informatica.m3u8
