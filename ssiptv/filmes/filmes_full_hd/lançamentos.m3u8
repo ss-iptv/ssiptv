@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: ! Lançamentos 2021
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: The.Matrix.Resurrections
+#EXTINF:0, The.Matrix.Resurrections (LEG)
+http://lib-drive.herokuapp.com/api/v1/redirectdownload/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E
+subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
+
+#EXTINF:0, The.Matrix.Resurrections (CDN)
+subtitles="https://raw.githubusercontent.com/ss-iptv/ssiptv/main/The.Matrix.Resurrections.srt"
+https://cdn.libdrive.cf/api/v1/download/The.Matrix.Resurrections.mkv?a=0&id=19Q4MgEfCDHQQavp-KMaRWxFI8dmIgv0E&session=eyJhY2Nlc3NfdG9rZW4iOiAieWEyOS5BMEFScmRhTV9CX1Y2YmJvLUF1OTR0bkFTTWp1UjB4VVdsVjh1ZnRnZ1czUG1sb1JyTTFLT0xYMlRDRWM0dVZCU0RpQmZpd2g3TjZUcHJncGJNOTJDdDR5UGJodHpjVjhVRF9yRkUwRUJpd0w5S3dPTy1NdmphQk5Gdm8zNUZrLUQ2S205S3FBMmF3a1Nyd0d0dUI3eF85UkhuVDNvbUlBcyIsICJjbGllbnRfaWQiOiAiMTA5NzkwMTA0NjU4NC1icHEzamJjdWxoNGEycWVxaWcyc2VuaDViMDM1OTNkaC5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsICJjbGllbnRfc2VjcmV0IjogIkdPQ1NQWC11Tm0xODMwWm9DcFQyNkhqcFp2S05nblIxMm0zIiwgInJlZnJlc2hfdG9rZW4iOiAiMS8vMGhtMDZ1Mzljall2U0NnWUlBUkFBR0JFU053Ri1MOUlyYlVxZnhwMFJKY3hGNHczWWhZTzFQRF9ubDR0YUJrUGVsemlKNGhncHJ1NS1CWGxaV1BZVVEyZTdING45YkNhbGRHVSIsICJ0b2tlbl9leHBpcnkiOiAiMjAyMS0xMi0yMyAxOTozMjozMi4xODc2MTQiLCAidXJsIjogImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL2RyaXZlL3YzL2ZpbGVzLzE5UTRNZ0VmQ0RIUVFhdnAtS01hUld4Rkk4ZG1JZ3YwRT9hbHQ9bWVkaWEifQ==&
 
 #EXTINF:0, John Wick 1.mp4
 http://lib-drive.herokuapp.com/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
