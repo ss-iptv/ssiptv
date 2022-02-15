@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Admirável Mundo Novo
+#EXTINF:0, Brave New World S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E01.mp4?a=0&id=1YnY-Y3Pvm4f4f2pgXFocLKdpV5rk9mW-
+#EXTINF:0, Brave New World S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E02.mp4?a=0&id=1Ynmcjy7OmvFDtu8tiUNt8R-wZSWv8LoC
+#EXTINF:0, Brave New World S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E03.mp4?a=0&id=1YoTt_g_hZ7z231vr8LMakFs8j7JdoWeL
+#EXTINF:0, Brave New World S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E04.mp4?a=0&id=1Ypht5NDHyHoPaggsUgZ-VzuYZ2fWG9Mv
+#EXTINF:0, Brave New World S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E05.mp4?a=0&id=1YqLXq6rDc91rL27a2qshTnC1b-wwzoLv
+#EXTINF:0, Brave New World S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E06.mp4?a=0&id=1YqMirXyfnuh_Aw7enynuHx4Q6HRjGnv8
+#EXTINF:0, Brave New World S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E07.mp4?a=0&id=1YqTgI5wQR7UDGCG5fokHggcIH_SDZOnY
+#EXTINF:0, Brave New World S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E08.mp4?a=0&id=1YtZkGaqx3XSSQUdjvIlIQLgXTjyzFjNV
+#EXTINF:0, Brave New World S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Brave%20New%20World%20S01%20E09.mp4?a=0&id=1YvT3cb_XJo5nRDx_a1espFkJye0xZVn5

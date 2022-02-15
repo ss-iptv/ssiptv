@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Quantico
+#EXTINF:0, Quantico S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E01.mp4?a=0&id=1u26y_87AR-yYReS7ISz-sIpcAOpXD6_q
+#EXTINF:0, Quantico S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E02.mp4?a=0&id=1uEQL00IOLdAn7q636fpAf5kAungNNjOL
+#EXTINF:0, Quantico S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E03.mp4?a=0&id=1uN27H9yw6DivLxua1ra9UmykbI8Ma8yv
+#EXTINF:0, Quantico S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E05.mp4?a=0&id=1ulwcfJ9oPVdfJSs2zNOXdO9Zc1XupeQh
+#EXTINF:0, Quantico S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E06.mp4?a=0&id=1um4E8j0mnTGSDg57ME9vCLYbCnjJWF_J
+#EXTINF:0, Quantico S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E08.mp4?a=0&id=1v-0vAmNkW34TPYz4iXDAl2BnkiMsNoxq
+#EXTINF:0, Quantico S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E09.mp4?a=0&id=1v-UIAb7LuErLHoz07Yju9XuLL_tqa_gt
+#EXTINF:0, Quantico S01 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E11.mp4?a=0&id=1v9zH4iO5hCy7FqW3L36Yf4tsGp9VfzSX
+#EXTINF:0, Quantico S01 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E12.mp4?a=0&id=1vDn0Mp5J96KvJQs_H-zfUmGrlDS8a2gM
+#EXTINF:0, Quantico S01 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E13.mp4?a=0&id=1vFGW0cQI1EOY6WbfRf9MBrVTzFuDyJTi
+#EXTINF:0, Quantico S01 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E14.mp4?a=0&id=1vINSk5Qjt3G0Hh7PGnO7PjDN4YMDuXhw
+#EXTINF:0, Quantico S01 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E17.mp4?a=0&id=1vRtXiec3CqWycZbotPqPLgG-L5MEXydk
+#EXTINF:0, Quantico S01 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E19.mp4?a=0&id=1vsVIt6ZRKhTKtR0AB_O1GPMwQiUh_Mqd
+#EXTINF:0, Quantico S01 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E20.mp4?a=0&id=1vwqPv6BORv6JM1cDXuSWOirUj58yLv6t
+#EXTINF:0, Quantico S01 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S01%20E21.mp4?a=0&id=1vxnivknlXBqqdIn6BtDYQCNgrzazRCR5
+#EXTINF:0, Quantico S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E01.mp4?a=0&id=1w0-guGrzn9Rs_w8rY5196mShcxPXf_cG
+#EXTINF:0, Quantico S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E02.mp4?a=0&id=1w4VeKFEr7u6FzdqfcftZVcC1dCclOHYX
+#EXTINF:0, Quantico S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E03.mp4?a=0&id=1wG8BVY4x6sM6hf_iWI_o25jY5UF0Mul7
+#EXTINF:0, Quantico S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E05.mp4?a=0&id=1wGW_6EIz9E3jUUhxu5dM48Z7YqSjMl-h
+#EXTINF:0, Quantico S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E06.mp4?a=0&id=1wIgg4ZKGKPouHAdB1_Cpj7vBahlqqm9w
+#EXTINF:0, Quantico S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E07.mp4?a=0&id=1wQwwxjkRHrntTEs3sFcBZ41xr3uvvlXP
+#EXTINF:0, Quantico S02 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E09.mp4?a=0&id=1wg97Oox2cS1xlMB4YNXy6MZlqke-OFYJ
+#EXTINF:0, Quantico S02 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E10.mp4?a=0&id=1wmvXLBcniDqkUqK25D_WMrQg6Z3X2VZ0
+#EXTINF:0, Quantico S02 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E11.mp4?a=0&id=1wwW2FVP2wT8bDFajkJ_QO4UypcchXcSM
+#EXTINF:0, Quantico S02 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E12.mp4?a=0&id=1wxK9rmkcUIVqmFO1Eun9rwqAus6iZ6Ec
+#EXTINF:0, Quantico S02 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E13.mp4?a=0&id=1wz8iin1llEYIeybV97gZS29mz9oxA_x1
+#EXTINF:0, Quantico S02 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E15.mp4?a=0&id=1wzaF5ag8kmW1CixDKHRPSzMmomzCK2nn
+#EXTINF:0, Quantico S02 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E16.mp4?a=0&id=1xAmrnWbu2izcTxrw-_p2FGBlLEE6_t6C
+#EXTINF:0, Quantico S02 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E18.mp4?a=0&id=1xWqa0D8A2Yh-NhXakSVy9xFZ5IXrJnhk
+#EXTINF:0, Quantico S02 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E19.mp4?a=0&id=1xjXpwDapEOGY9ikvUun5LOlris4s3sv8
+#EXTINF:0, Quantico S02 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E20.mp4?a=0&id=1xnIWICZ70v16Gb9W-vAr8_x98Pjg3EAM
+#EXTINF:0, Quantico S02 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E21.mp4?a=0&id=1xnZpX9fjL1rCRv-cen1N6n9TVP3EDNcf
+#EXTINF:0, Quantico S02 E22.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Quantico%20S02%20E22.mp4?a=0&id=1xpugzIq8qjeUQZ6t3ZRbyg9N8t8W73oj

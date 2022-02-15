@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: BMF (Black Mafia Family)
+#EXTINF:0, BMF (Black Mafia Family) S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/BMF%20(Black%20Mafia%20Family)%20S01%20E01.mp4?a=0&id=1El0IFX3vgrQV_5NPLmcOwVgeldreDHLM
+#EXTINF:0, BMF (Black Mafia Family) S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/BMF%20(Black%20Mafia%20Family)%20S01%20E02.mp4?a=0&id=1EmCiu7kV7fvvLhsys-XkYKB9J8ZMIByQ
+#EXTINF:0, BMF (Black Mafia Family) S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/BMF%20(Black%20Mafia%20Family)%20S01%20E03.mp4?a=0&id=1Ew9cwZwf979dEcz4jRWBi-ea8BEC04B0
+#EXTINF:0, BMF (Black Mafia Family) S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/BMF%20(Black%20Mafia%20Family)%20S01%20E04.mp4?a=0&id=1ExCV5URG-qiSi0h4QXzlQTWlqNinMLSa
+#EXTINF:0, BMF (Black Mafia Family) S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/BMF%20(Black%20Mafia%20Family)%20S01%20E05.mp4?a=0&id=1EyWAc_WHVB_9cuQGYt0HgdLRwJOv2QbS

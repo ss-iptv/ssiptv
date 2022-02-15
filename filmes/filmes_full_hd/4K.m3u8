@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 4K
+#EXTINF:0, 15h17 - Trem Para Paris 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/15h17%20-%20Trem%20Para%20Paris%204K.mp4?a=0&id=11zh0bPCYNaUfJH8Vlxm61mF52-izL-CV
+#EXTINF:0, A Barraca do Beijo 3 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Barraca%20do%20Beijo%203%204K.mp4?a=0&id=125SwtVBFACGijcp9arxFlYf6rVZw5gfW
+#EXTINF:0, A Cor Que Caiu Do Espaco 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Cor%20Que%20Caiu%20Do%20Espaco%204K.mp4?a=0&id=1291i0vd9ppAtC9nM6mgI6j9ux3sv2iqW
+#EXTINF:0, A Dama E O Vagabundo 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Dama%20E%20O%20Vagabundo%204K%20%5BHDR%5D.mp4?a=0&id=12A0TkzZENWkBlKIYgy49CFSVf3fIB1s8
+#EXTINF:0, A Extraordinária Garota Chamada Estrela 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Extraordin%C3%A1ria%20Garota%20Chamada%20Estrela%204K%20%5BHDR%5D.mp4?a=0&id=12AVEU4wkdZLB-NpvJWa7Ksqcvbt7JV4u
+#EXTINF:0, A Freira 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Freira%204K.mp4?a=0&id=12AdeA82i2607Cvyav6q5VZ3PRFtFxyMD
+#EXTINF:0, A Mansão 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Mans%C3%A3o%204K%20%5BHDR%5D.mp4?a=0&id=12BaLzhvthNAmYxYG0EZuN-dzFDFHu2Ol
+#EXTINF:0, A Mula 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Mula%204K.mp4?a=0&id=12BqmvUa_fYZvadYDBwlurTw6sV6CcV4B
+#EXTINF:0, A Terra e o Sangue 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Terra%20e%20o%20Sangue%204K.mp4?a=0&id=12CVdF29mNlVQ1lqNfhdFT4OUnrP62MRo
+#EXTINF:0, A Vida Invisivel 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20Vida%20Invisivel%204K%20%5BHDR%5D.mp4?a=0&id=12EFrbOMVV1Bthk2ZJN0svOFS1rMUnxU1
+#EXTINF:0, A Última Coisa que Ele Queria 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/A%20%C3%9Altima%20Coisa%20que%20Ele%20Queria%204K.mp4?a=0&id=12Eu4jz9iQLHPrzJAdNT6wOaG9OfdFsO3
+#EXTINF:0, Abominável 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Abomin%C3%A1vel%204K%20%5BHDR%5D.mp4?a=0&id=12Foz64gdVev5O8OxwadjctTuGwcMiCRX
+#EXTINF:0, Abominável 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Abomin%C3%A1vel%204K.mp4?a=0&id=12Fb5qnTqyE3AxFHR969JDjL1A4hncQNU
+#EXTINF:0, Ad Astra - Rumo às Estrelas 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Ad%20Astra%20-%20Rumo%20%C3%A0s%20Estrelas%204K.mp4?a=0&id=12FzuFDDLnB_1MnA3DFdgz8_9jQNlZFCB
+#EXTINF:0, Aladdin 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aladdin%204K%20%5BHDR%5D.mp4?a=0&id=1iMeOg9UEbiNM8c3KGVrM5sX0uIPsU8P1
+#EXTINF:0, Aladdin 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aladdin%204K.mp4?a=0&id=1iLsu7L10I7NzulHuU2RfJt5FjkEr5_pB
+#EXTINF:0, Alita Anjo de Combate 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Alita%20Anjo%20de%20Combate%204K%20%5BHDR%5D.mp4?a=0&id=1iU9CYeIEM_o4rU1hM-j09LIAMrrVSCZt
+#EXTINF:0, Amor e Monstros 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Amor%20e%20Monstros%204K.mp4?a=0&id=1iXwMmjH-TV3Ky-7CSQnKpkcS5wy4mohD
+#EXTINF:0, Anônimo 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/An%C3%B4nimo%204K.mp4?a=0&id=1j2424Dgrcz0b-MGSjbVH0yrlSWrEIZqE
+#EXTINF:0, Artemis Fowl O Mundo Secreto 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Artemis%20Fowl%20O%20Mundo%20Secreto%204K%20%5BHDR%5D.mp4?a=0&id=1j5xNZ1bPhVlVGXKdWR9Di-8TJHRxhLSr
+#EXTINF:0, As Viuvas 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/As%20Viuvas%204K.mp4?a=0&id=1jOxlTRsgiK2bCvaMIEhLpGvG6dw-nMZ4
+#EXTINF:0, Batman O Cavaleiro das Trevas 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Batman%20O%20Cavaleiro%20das%20Trevas%204K.mp4?a=0&id=1jj2vIyfuBxWMDw1ds-iUWwpmiKsOJ5Lc
+#EXTINF:0, Bohemian Rhapsody 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bohemian%20Rhapsody%204K.mp4?a=0&id=1k0giYowxllorqx40C3EOGdOyfkk-Eodg
+#EXTINF:0, Cinquenta Tons de Liberdade 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Cinquenta%20Tons%20de%20Liberdade%204K.mp4?a=0&id=1kEdwHjyHkWxd116Qj8oxLeJ2x5VR6kds
+#EXTINF:0, Clouds 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Clouds%204K.mp4?a=0&id=1kGbXCcdFxgbzaaa2NafS4vCZxlay0Oer
+#EXTINF:0, Furia em Alto Mar 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Furia%20em%20Alto%20Mar%204K.mp4?a=0&id=1kwDvgHRjaJ0cIq3ex3C7MUDOYAVMvdfe
+#EXTINF:0, Godzilla Vs Kong 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Godzilla%20Vs%20Kong%204K%20%5BHDR%5D.mp4?a=0&id=11aTiCI2NEiUPmmdZBqlWtM__hQWM1Z9R
+#EXTINF:0, Han Solo - Uma Historia Star Wars 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Han%20Solo%20-%20Uma%20Historia%20Star%20Wars%204K.mp4?a=0&id=1lPSx7PikkyMEYISaZ059R0lfP5Qk9fPx
+#EXTINF:0, Homem Aranha de Volta ao Lar 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Homem%20Aranha%20de%20Volta%20ao%20Lar%204K.mp4?a=0&id=1lVsXbqeN2Lj0eu_hpzB1sXbFdjQHi8ts
+#EXTINF:0, Homem Formiga e a Vespa 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Homem%20Formiga%20e%20a%20Vespa%204K.mp4?a=0&id=1lXfjtU9GTDL4Lmo6Tmliu9FnzZW99wRN
+#EXTINF:0, Homem-Aranha Longe de Casa 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Homem-Aranha%20Longe%20de%20Casa%204K.mp4?a=0&id=1lZBJK10HqHkL5mvSEGFgaw08zRDpsf2-
+#EXTINF:0, Incredibles 2 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Incredibles%202%204K.mp4?a=0&id=1leSX8hIYYBSgbJURGV4x0vjAaQPdF91T
+#EXTINF:0, Infinito 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Infinito%204K%20%5BHDR%5D.mp4?a=0&id=1lj1b2FmwaUN-nNKiD31G-EeS4YEruuHN
+#EXTINF:0, It Capitulo Dois 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/It%20Capitulo%20Dois%204K.mp4?a=0&id=1lwIlMFyFsp4EwZTP_-TLi2iDvWMaEJJy
+#EXTINF:0, Midway - Batalha em Alto Mar 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Midway%20-%20Batalha%20em%20Alto%20Mar%204K%20%5BHDR%5D.mp4?a=0&id=1mUXaHaicHvf7lL_2WHo8IhlTOiG53Orx
+#EXTINF:0, Os Croods 2 Uma Nova Era 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Croods%202%20Uma%20Nova%20Era%204K%20%5BHDR%5D.mp4?a=0&id=1nqRLSzDTwn5KDyEqoeUBnqGafqZdWtD9
+#EXTINF:0, Os Novos Mutantes 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Novos%20Mutantes%204K.mp4?a=0&id=1nsBirsXoYctCNk6TsinUQsRe6qinAHz0
+#EXTINF:0, Pantera Negra 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pantera%20Negra%204K.mp4?a=0&id=1nu5tlavDRZzsgDUdrbFGvYci30oJNSaC
+#EXTINF:0, Togo 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Togo%204K%20%5BHDR%5D.mp4?a=0&id=1onfHH6wl4H-DwJAAtm8xzggERq4MMVHc
+#EXTINF:0, Tom & Jerry - O Filme 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Tom%20&%20Jerry%20-%20O%20Filme%204K.mp4?a=0&id=1orW4LMf6m0e2ln3gJVRl79YiqPB9Fa8B
+#EXTINF:0, Um Espião Animal 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Um%20Espi%C3%A3o%20Animal%204K.mp4?a=0&id=1p6b8m8Pj0rQqWA77ceF0rU0w4WDHX4gS
+#EXTINF:0, Um Lugar Silencioso - Parte II 4K [HDR].mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Um%20Lugar%20Silencioso%20-%20Parte%20II%204K%20%5BHDR%5D.mp4?a=0&id=1pAKvum4g6BnIl81ziwEGOoOs5HS_JFrx
+#EXTINF:0, Velozes & Furiosos 9 4K.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Velozes%20&%20Furiosos%209%204K.mp4?a=0&id=1w5uLKU3G7j2jR4YAd-HjmtlvaxyA07jJ

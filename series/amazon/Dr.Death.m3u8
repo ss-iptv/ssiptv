@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dr. Death
+#EXTINF:0, Dr. Death S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E01.mp4?a=0&id=1_XF1B0fxD-u-Qoa70iXf6uneoRck1E00
+#EXTINF:0, Dr. Death S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E02.mp4?a=0&id=1_XnOpo2RKJAgEIdAEMb7rjq3MGc9UfVk
+#EXTINF:0, Dr. Death S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E03.mp4?a=0&id=1_pcK8GciLgVVi0qYBUOtAWRFRFL1B9wq
+#EXTINF:0, Dr. Death S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E04.mp4?a=0&id=1bZgZ3fDwrwNvbLgsnmzSwTW5-YVBHs7m
+#EXTINF:0, Dr. Death S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E05.mp4?a=0&id=1brljCyGMzAc1jFFlgJsrSi3VwyTgZjll
+#EXTINF:0, Dr. Death S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E06.mp4?a=0&id=1bsdTpD0i7KEHbPf_IfrsHQT8NJMvL4mW
+#EXTINF:0, Dr. Death S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E07.mp4?a=0&id=1cG9Ocufv6yjzY6X9WF4c7uXYQU1bpDot
+#EXTINF:0, Dr. Death S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dr.%20Death%20S01%20E08.mp4?a=0&id=1cq3Ikjn9MJdVW-3HE05gbVJvPEa8bwyY

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Castle Rock
+#EXTINF:0, Castle Rock S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E01.mp4?a=0&id=130L1n3cNgmqF5Grbv8ZjBk7lqNaHpVTs
+#EXTINF:0, Castle Rock S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E02.mp4?a=0&id=13ETG-gGYmMtWGZ7Bt6vHvILAxhhw2mFw
+#EXTINF:0, Castle Rock S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E03.mp4?a=0&id=13EWqcJcZgYCckGH17vqq4DH4pZuTUfJE
+#EXTINF:0, Castle Rock S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E04.mp4?a=0&id=13K6g7Znpohe4tfOMzWR4UY1wQEiEXRxx
+#EXTINF:0, Castle Rock S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E05.mp4?a=0&id=13NDok_XgRq4bWb1f9vJJ3QlOSmHQUCto
+#EXTINF:0, Castle Rock S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E07.mp4?a=0&id=13SMeX7DsrlnySI5jzTUIO-kXI6K_ilEw
+#EXTINF:0, Castle Rock S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E08.mp4?a=0&id=13UOvjCLzQmR7OU1HZFByMB89kWlDnVy9
+#EXTINF:0, Castle Rock S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S01%20E10.mp4?a=0&id=13iDc3lQnrnGE3v52tyR7iP0IalCXdhX1
+#EXTINF:0, Castle Rock S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S02%20E02.mp4?a=0&id=13sDXKsAB4Iwk_gOJArh2_5payKmAbPzY
+#EXTINF:0, Castle Rock S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S02%20E04.mp4?a=0&id=13uGEZCUQGEspaY6niGkWv7blUemyIspU
+#EXTINF:0, Castle Rock S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S02%20E05.mp4?a=0&id=13uII-pjdQx_vPF3_so7WTwbtGA9zZe-N
+#EXTINF:0, Castle Rock S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S02%20E07.mp4?a=0&id=14B2pRc9krXTnXdWAOnalHeKIjDbd7IHU
+#EXTINF:0, Castle Rock S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Castle%20Rock%20S02%20E08.mp4?a=0&id=14ElyM19nkjPb2IvlcSv8Lb5rjMVx_rZ3

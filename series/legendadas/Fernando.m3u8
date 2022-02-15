@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Fernando [L] S01 E01
+#EXTINF:0, Fernando [L] S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Fernando%20%5BL%5D%20S01%20E01.mp4?a=0&id=1GMuuuty0VXcHc6kE8zUEtLnE21A6kkwL
+#EXTINF:0, Fernando [L] S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Fernando%20%5BL%5D%20S01%20E02.mp4?a=0&id=1GOuRpveXx9H1dsXPP1W9rrrk4Mv-7DAH
+#EXTINF:0, Fernando [L] S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Fernando%20%5BL%5D%20S01%20E03.mp4?a=0&id=1GXxKb4GzaiOITz1BKi_8f6Pj3N5s3UeA
+#EXTINF:0, Fernando [L] S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Fernando%20%5BL%5D%20S01%20E04.mp4?a=0&id=1HcElkHXrYukNyirYewVWuHvvvOdDcHcD
+#EXTINF:0, Fernando [L] S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Fernando%20%5BL%5D%20S01%20E05.mp4?a=0&id=1HkCElSWfcMltBFHbbHK7zMVAzGjwVV1M

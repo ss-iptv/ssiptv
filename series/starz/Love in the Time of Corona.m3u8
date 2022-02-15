@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Love in the Time of Corona S01 E01
+#EXTINF:0, Love in the Time of Corona S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Love%20in%20the%20Time%20of%20Corona%20S01%20E01.mp4?a=0&id=1SohZlfW2SmCfht1bbmLtz8YYijxMjQgt
+#EXTINF:0, Love in the Time of Corona S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Love%20in%20the%20Time%20of%20Corona%20S01%20E04.mp4?a=0&id=1T5F6tohY2thd6aBm62Olb64ExzYayUj_

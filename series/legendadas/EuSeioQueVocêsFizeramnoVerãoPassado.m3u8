@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E01
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E01.mp4?a=0&id=1oxZ6qekViM7nDK-r94g5f66PdbCmgckJ
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E02.mp4?a=0&id=1p3A1Awrv5dBHfqBxNbK_6QID6Rgl2zVU
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E03.mp4?a=0&id=1pENJSc2ZEo0hNnmFOF2UWCAsSgaulLeC
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E04.mp4?a=0&id=1pIdp2NB0RSMnl0hgo3nykR6ry8JTdSef
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E05.mp4?a=0&id=1pJ6_PkfFPKnAktkJBd3Bc5axw3-_aZxl
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E06.mp4?a=0&id=1pQP5Nw2q0fRayxfigFKa90BRHEBZsPy2
+#EXTINF:0, Eu Sei o Que Vocês Fizeram no Verão Passado [L] S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Eu%20Sei%20o%20Que%20Voc%C3%AAs%20Fizeram%20no%20Ver%C3%A3o%20Passado%20%5BL%5D%20S01%20E07.mp4?a=0&id=1pVrPdc61AFhAEkZO4RIFTq6BDEDBkR0N

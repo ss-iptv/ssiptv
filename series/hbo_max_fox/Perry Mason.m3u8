@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Perry Mason
+#EXTINF:0, Perry Mason S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E01.mp4?a=0&id=1BVLhAaz-rrXb7vR-qFc2-mLw0G_i24ms
+#EXTINF:0, Perry Mason S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E02.mp4?a=0&id=1BVeLtlAeFJm7O2ZMBwOWhrjZDeVXUMae
+#EXTINF:0, Perry Mason S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E03.mp4?a=0&id=1BVxXzbUX9FZog-vVIFIs0WKcNjTUq-vx
+#EXTINF:0, Perry Mason S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E04.mp4?a=0&id=1BWIqmeQzXmiIQQS3enXvJFVQBcWyCkuG
+#EXTINF:0, Perry Mason S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E05.mp4?a=0&id=1BY8SthxzjS3uI6pLRRpx9HRFI5Cveiqu
+#EXTINF:0, Perry Mason S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E06.mp4?a=0&id=1Bb6yPWSkn7C4tJ0Ul5Hr9z7mr-ThKm-G
+#EXTINF:0, Perry Mason S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E07.mp4?a=0&id=1BbJMO3TR39MmSVUtGaLeKYXr9s8DlroN
+#EXTINF:0, Perry Mason S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Perry%20Mason%20S01%20E08.mp4?a=0&id=1Bbb3ay-tCsIUMhiYKtOGjjDmSXWcOgq1

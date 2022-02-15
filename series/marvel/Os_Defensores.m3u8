@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Os Defensores
+#EXTINF:0, Marvel - Os Defensores S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E01.mp4?a=0&id=1MKCkitWtzRoPlWgePheq9PtEitT-9xAG
+#EXTINF:0, Marvel - Os Defensores S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E02.mp4?a=0&id=1MN2c7ZC8EIVOWassdO0z-eGRtIq8GFlJ
+#EXTINF:0, Marvel - Os Defensores S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E03.mp4?a=0&id=1MTzVd6OluWmGVxCViGi4olWNFnW3rC__
+#EXTINF:0, Marvel - Os Defensores S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E04.mp4?a=0&id=1MmaaNXd5jSFLtzd78l-ebLoL8NSx74ke
+#EXTINF:0, Marvel - Os Defensores S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E05.mp4?a=0&id=1Mo8BK2rin_MhxuXQSq9ZQBGFFDhTBWeC
+#EXTINF:0, Marvel - Os Defensores S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E06.mp4?a=0&id=1Msekxe2UpD0p4rw-v0qoAIr8KpJzZ7b6
+#EXTINF:0, Marvel - Os Defensores S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E07.mp4?a=0&id=1MxnrPDJEjVj8QSksM2M5xx4hMcXXB1f2
+#EXTINF:0, Marvel - Os Defensores S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel%20-%20Os%20Defensores%20S01%20E08.mp4?a=0&id=1N9-6ugiEgnaeIOkYA29xD7Ra5Fhhr0tE

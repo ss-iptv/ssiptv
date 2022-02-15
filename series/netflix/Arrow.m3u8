@@ -1,0 +1,271 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Arqueiro S01 E01
+#EXTINF:0, Arqueiro S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E01.mp4?a=0&id=1t8VkXehpcTY8Oy2xcrDIa-ZacAaZHLp8
+#EXTINF:0, Arqueiro S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E02.mp4?a=0&id=1Wqm11f7UXBPFw4xN08ZdsMLVF0dXwu_e
+#EXTINF:0, Arqueiro S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E03.mp4?a=0&id=1X6J97a8Dm0WtUoCIVIv1IxAfiL3Zh_se
+#EXTINF:0, Arqueiro S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E04.mp4?a=0&id=1XPv4hjEeq569rdFjWv_P23gERlAsr3Ri
+#EXTINF:0, Arqueiro S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E05.mp4?a=0&id=1XRsvVyRi3WRSSr2DIcIr5bE1LOztS8au
+#EXTINF:0, Arqueiro S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E06.mp4?a=0&id=1XYlTvP1Oy6-eVJJQHDtvP5ihps0_KNzG
+#EXTINF:0, Arqueiro S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E07.mp4?a=0&id=1X_ugl_zSkZE3CajUMWXdcKk3HEYMIGzy
+#EXTINF:0, Arqueiro S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E08.mp4?a=0&id=1XjkmyhOZl0UqgW9JSyABJS_4f5W9WRcq
+#EXTINF:0, Arqueiro S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E09.mp4?a=0&id=1XloqBY9i7qeQuedGXBogDBAMKcFPt8LZ
+#EXTINF:0, Arqueiro S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E10.mp4?a=0&id=1Y4K7ixe6L9NtXC7eiBkPIGLmwtL0QMYQ
+#EXTINF:0, Arqueiro S01 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E11.mp4?a=0&id=1YEhCKocxskzJQGXLUeVarwVoRt2Ilmki
+#EXTINF:0, Arqueiro S01 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E12.mp4?a=0&id=1YMurlIAwx0pqsOiolACtgsenDX61qqwO
+#EXTINF:0, Arqueiro S01 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E13.mp4?a=0&id=1YXyqaNijtF2PJjTw8bDDDkvYRCBPrYGI
+#EXTINF:0, Arqueiro S01 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E14.mp4?a=0&id=1YghpextuVHZM0hxpIDZtw87DTjXAOKfP
+#EXTINF:0, Arqueiro S01 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E15.mp4?a=0&id=1YnrRVe4e3oVyXpJPoJIe_bOXlLCIZU1i
+#EXTINF:0, Arqueiro S01 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E16.mp4?a=0&id=1YoUvnG9UmAJL26XaPJIbUp97s5d1C-L2
+#EXTINF:0, Arqueiro S01 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E17.mp4?a=0&id=1Z832DP1oQfQ1a-pcS_PsQgT3VlDAGGol
+#EXTINF:0, Arqueiro S01 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E18.mp4?a=0&id=1ZRoAVYRuOC3UT8D3q7A1EpW6c9MkCej0
+#EXTINF:0, Arqueiro S01 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E19.mp4?a=0&id=1ZTxYg5Du26fDm6FCLMEaRaB9RKpBZNlG
+#EXTINF:0, Arqueiro S01 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E20.mp4?a=0&id=1Zwrix6pZoY55ik4g7IX_QRWBi68A756P
+#EXTINF:0, Arqueiro S01 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E21.mp4?a=0&id=1ZxzRAUasEzJ7zxxcyxk_871pDVR7Ampn
+#EXTINF:0, Arqueiro S01 E22.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E22.mp4?a=0&id=1_9fHJmX1OJdd66V5vB34zuB3ZmfOhHE8
+#EXTINF:0, Arqueiro S01 E23.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S01%20E23.mp4?a=0&id=1_BxYDflgwXa_WJAH_SiD3oufo0m6HCSq
+#EXTINF:0, Arqueiro S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E01.mp4?a=0&id=1_UNaNu_ULpCbFxnKCAv-VpfdX7bN-nCN
+#EXTINF:0, Arqueiro S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E02.mp4?a=0&id=1_XzwhzzR9X_D7cq6qtO07Lv1aPhqMixM
+#EXTINF:0, Arqueiro S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E03.mp4?a=0&id=1_qVXhGyYIZXWYKAQSYdSqeZGO_9YiGCx
+#EXTINF:0, Arqueiro S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E04.mp4?a=0&id=1aDlr5Njpppf5atByBFil5E-QSHMuSzDx
+#EXTINF:0, Arqueiro S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E05.mp4?a=0&id=1aM90D7FYRlQctqUOIWm5DVrF_CKz9tOD
+#EXTINF:0, Arqueiro S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E06.mp4?a=0&id=1aMrfoZCO8wKC6dUFIx5kcVPSTbasvssX
+#EXTINF:0, Arqueiro S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E07.mp4?a=0&id=1ab8tTlezOP9wTXZG7cST3GfWcj-HkxXw
+#EXTINF:0, Arqueiro S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E08.mp4?a=0&id=1acO-9MrDviw7hPb7HGFT4nm5B__WBOKL
+#EXTINF:0, Arqueiro S02 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E09.mp4?a=0&id=1apIzYdTFKiM1qhggJkrRxyLowL0zv_Or
+#EXTINF:0, Arqueiro S02 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E10.mp4?a=0&id=1b65xEMV47vEBRK3v_nePg3jeX_lncaPj
+#EXTINF:0, Arqueiro S02 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E11.mp4?a=0&id=1bC4gkK8rj3XtIfX34IJxzwLfRr6sJmoV
+#EXTINF:0, Arqueiro S02 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E12.mp4?a=0&id=1bJgPLnF79XAlbAHQv3VuQLf1ibR8hg9r
+#EXTINF:0, Arqueiro S02 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E13.mp4?a=0&id=1bUKlRLCUU0OEWKia-EgTswoodWQXGdPz
+#EXTINF:0, Arqueiro S02 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E14.mp4?a=0&id=1b_7Zi0BVWZDoacEDmoHSwHoZa3Gmhc2J
+#EXTINF:0, Arqueiro S02 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E15.mp4?a=0&id=1bdHzfrvw75d4uwWXY45tdiPySy7RSNYN
+#EXTINF:0, Arqueiro S02 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E16.mp4?a=0&id=1bkcNCX9CW3-wczFVsiagVbG_Cgf2KhG0
+#EXTINF:0, Arqueiro S02 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E17.mp4?a=0&id=1bkfE9WRRRej3lpmBQf2l1bfBMy6bz7MK
+#EXTINF:0, Arqueiro S02 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E18.mp4?a=0&id=1bspRzGor1JicXy8Kx2cCStpoxASk4GrW
+#EXTINF:0, Arqueiro S02 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E19.mp4?a=0&id=1by2jlJkV4mKOTzkPhhNKynicNIKEQ_Ew
+#EXTINF:0, Arqueiro S02 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E20.mp4?a=0&id=1byq7di018vO7xugeJdxunRr6b1jA4SHJ
+#EXTINF:0, Arqueiro S02 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E21.mp4?a=0&id=1cBsUwIqvsZDGg7Qyr_l9z0C79HHAa8IX
+#EXTINF:0, Arqueiro S02 E22.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E22.mp4?a=0&id=1cDB36UQbwTmPVsdud9b5Knrm1gZN_c9N
+#EXTINF:0, Arqueiro S02 E23.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E23.mp4?a=0&id=1cZYdk3mstcWA7KFFwVqlW-wjiIMM2ahE
+#EXTINF:0, Arqueiro S02 E24.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S02%20E24.mp4?a=0&id=1cZjAkGAKjjWGhNrW_hjjo-wtabZDhePE
+#EXTINF:0, Arqueiro S03 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E01.mp4?a=0&id=1c_wX5qddF57BtWzmK15Bqicj59bvT-Ej
+#EXTINF:0, Arqueiro S03 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E02.mp4?a=0&id=1cf1SGFH-uDALGkD7te_eeHXNbxzG7oRw
+#EXTINF:0, Arqueiro S03 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E03.mp4?a=0&id=1cmtll150wCD2recUPW-S2y3vDV93DMa-
+#EXTINF:0, Arqueiro S03 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E04.mp4?a=0&id=1cnopQitmz-58wbjk2rCTkZtaxvKTD-Ns
+#EXTINF:0, Arqueiro S03 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E05.mp4?a=0&id=1csGnxtbDiAgsiUy2e8Xm37gBk6uJHggX
+#EXTINF:0, Arqueiro S03 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E06.mp4?a=0&id=1cxAhVYNTjO0kmrt4GbnkNlW2ds2-rD1U
+#EXTINF:0, Arqueiro S03 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E07.mp4?a=0&id=1d3mHXH-rG8E0M9H42e27CQHhcJzgjg8P
+#EXTINF:0, Arqueiro S03 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E08.mp4?a=0&id=1d8523TheDcvT9RSy17orOg6hq37LxQQY
+#EXTINF:0, Arqueiro S03 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E09.mp4?a=0&id=1dLHDFiynzRCSaq1UJiehhhI5fQMMxAwe
+#EXTINF:0, Arqueiro S03 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E10.mp4?a=0&id=1dSnqdSNJGecpimyRsn03S8IxRQHjGZgx
+#EXTINF:0, Arqueiro S03 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E11.mp4?a=0&id=1dYs98oHa9EdFH0IrKcerexuq94zYNA_d
+#EXTINF:0, Arqueiro S03 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E12.mp4?a=0&id=1dZ_-9wcLcgQEBhXtOWz3n4ZxVf4QEwVf
+#EXTINF:0, Arqueiro S03 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E13.mp4?a=0&id=1dnJRCn86J5p9waMIprgDF0gb_LvkDW9Z
+#EXTINF:0, Arqueiro S03 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E14.mp4?a=0&id=1dnlHYKWL-2HbWXM3kF07O_yyEehuE35i
+#EXTINF:0, Arqueiro S03 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E15.mp4?a=0&id=1drdGuqmMY2kqzbwLRnHHP8PuffX1d9UA
+#EXTINF:0, Arqueiro S03 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E16.mp4?a=0&id=1dsOsAcLIqb4nWdnxE7bIyKEZacMuXwFC
+#EXTINF:0, Arqueiro S03 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E17.mp4?a=0&id=1e-yo5N8mdm8fxN52lQvR7bxLK5Sfqr7K
+#EXTINF:0, Arqueiro S03 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E18.mp4?a=0&id=1eNq6fKJBlyAx6iUgta7mSiurIOTjJDGD
+#EXTINF:0, Arqueiro S03 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E19.mp4?a=0&id=1eXpv1NmmmKg0Jfq3Tbfk11hUAo22agv4
+#EXTINF:0, Arqueiro S03 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E20.mp4?a=0&id=1emNgsnFsxd4GvkEE7UBUP_ynqXnbPovI
+#EXTINF:0, Arqueiro S03 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E21.mp4?a=0&id=1eu25tjvf8AR3j_qBDNTDN6nXsjHaLIt7
+#EXTINF:0, Arqueiro S03 E22.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E22.mp4?a=0&id=1fFFxCvML4T6AMXBeKvtdSKkjXYfx-rTh
+#EXTINF:0, Arqueiro S03 E23.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S03%20E23.mp4?a=0&id=1fYutd5GBImfgrhkOIyIzFviY7LrHH6Pd
+#EXTINF:0, Arqueiro S04 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E01.mp4?a=0&id=1fuH1WjAc6Wzv57nUG2KpKFIm5oWFHuXd
+#EXTINF:0, Arqueiro S04 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E02.mp4?a=0&id=1gGXkAJCOKAcBuYVBDcGE_rKPMJw5BxbH
+#EXTINF:0, Arqueiro S04 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E03.mp4?a=0&id=1gIu4uVnY-ixwazK_7NOm-2rmZP-I3rf2
+#EXTINF:0, Arqueiro S04 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E04.mp4?a=0&id=1gT_qChUIo0yt6Q4yrdWiNPgq_XRcdt7M
+#EXTINF:0, Arqueiro S04 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E05.mp4?a=0&id=1gZ7yNlv9edMDedmARsE_QniZnrHA4TAl
+#EXTINF:0, Arqueiro S04 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E06.mp4?a=0&id=1gcED1dw7y--q7oCpLig6-JlQAATUU8-9
+#EXTINF:0, Arqueiro S04 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E07.mp4?a=0&id=1gcKYmZgbixneYD79PpEIkC-XXn2oGPVK
+#EXTINF:0, Arqueiro S04 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E08.mp4?a=0&id=1gcSDeQjmM3Ed7TWND6NLYUaxLyKQqboZ
+#EXTINF:0, Arqueiro S04 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E09.mp4?a=0&id=1gfcGVU9enFaxHNX3PxjWAuDM0nAaYPRF
+#EXTINF:0, Arqueiro S04 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E10.mp4?a=0&id=1gl1wEICaQbQYq219D4FqAalxuo4pkGr3
+#EXTINF:0, Arqueiro S04 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E11.mp4?a=0&id=1glALuWbyJW-S6R1g_XP2iFJhojHM5C4h
+#EXTINF:0, Arqueiro S04 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E12.mp4?a=0&id=1goBpJBEjnT643oA_R_tcy5sdXC8aNeK0
+#EXTINF:0, Arqueiro S04 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E13.mp4?a=0&id=1goSwmERtGb_GiOI-7zZ9m4JzrSol-69_
+#EXTINF:0, Arqueiro S04 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E14.mp4?a=0&id=1goTnDMW_Ssbuwc14_ghBGpJKvdtYwRTG
+#EXTINF:0, Arqueiro S04 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E15.mp4?a=0&id=1gu1ZjDzX2FABpF5hSO85n6Ti6GxByowQ
+#EXTINF:0, Arqueiro S04 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E16.mp4?a=0&id=1gvGvXQUv-78K1w1IChv1UTZY_JZfS3iX
+#EXTINF:0, Arqueiro S04 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E17.mp4?a=0&id=1gwYiXTKSpxChOV4QHVb1nT8aw5QwXi-V
+#EXTINF:0, Arqueiro S04 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E18.mp4?a=0&id=1gwwDCxqfdEQkEM_oAfR_E6JBDoR_mzW-
+#EXTINF:0, Arqueiro S04 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E19.mp4?a=0&id=1gzI_DOkwTtASdtBASltCgwEvkusOvaca
+#EXTINF:0, Arqueiro S04 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E20.mp4?a=0&id=1gzyxCMJG3Ssvv9vZNBXoZfNtRvmmmZ7x
+#EXTINF:0, Arqueiro S04 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E21.mp4?a=0&id=1gzzEDr_C9oMK5KrG1-S7QS9wYZUh41bO
+#EXTINF:0, Arqueiro S04 E22.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E22.mp4?a=0&id=1h1E4VJfxz2UiqJl9tmmodFx7tc2sO1pT
+#EXTINF:0, Arqueiro S04 E23.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S04%20E23.mp4?a=0&id=1h69KmNxsvOE1OGifnYrk2aZqygWX_ovk
+#EXTINF:0, Arqueiro S05 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E01.mp4?a=0&id=1h6m4NOy-HonUC9wkBvou3Yx8ihPdK-DI
+#EXTINF:0, Arqueiro S05 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E02.mp4?a=0&id=1h88Lk2BVGg9nCb2CTKO7PquYgVgYoZQC
+#EXTINF:0, Arqueiro S05 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E03.mp4?a=0&id=1hH7sah6XdEIdsBZOcufVlfwSGor58305
+#EXTINF:0, Arqueiro S05 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E04.mp4?a=0&id=1hItDrpD5xj927ouAkKXEHXF5YBuFQ50v
+#EXTINF:0, Arqueiro S05 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E05.mp4?a=0&id=1hPsjmSR2VLPhT8Y01vnDlna-Y8LCLlmt
+#EXTINF:0, Arqueiro S05 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E06.mp4?a=0&id=1hVrh-05wOyUIUotwlKRDXP-YFn5pZ5ti
+#EXTINF:0, Arqueiro S05 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E07.mp4?a=0&id=1hZYbxzwt6gNoqXB9JXukYKy6v6WgByQ2
+#EXTINF:0, Arqueiro S05 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E08.mp4?a=0&id=1hZtT9wWzaGMtR-ElH9AtyrNO5hm5PkKV
+#EXTINF:0, Arqueiro S05 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E09.mp4?a=0&id=1h_ScOvXa4bIoQdY23hLl0SaCI40sIE7G
+#EXTINF:0, Arqueiro S05 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E10.mp4?a=0&id=1hf-osbQ3exd8ni4OiMa1TjEhDU9HPGRK
+#EXTINF:0, Arqueiro S05 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E11.mp4?a=0&id=1hgF4n71L6CDWwQ7aUrBOUqLFosWMvj_k
+#EXTINF:0, Arqueiro S05 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E12.mp4?a=0&id=1hgJVfzGbUfdGRKxmXjpc64Ro_LgkzSqt
+#EXTINF:0, Arqueiro S05 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E13.mp4?a=0&id=1hgXbHDy8_3a94XJXHH9sbbbeIGx1l97D
+#EXTINF:0, Arqueiro S05 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E14.mp4?a=0&id=1hru2FotmE9iNOKzKbpVRV8YBTIpb-z8W
+#EXTINF:0, Arqueiro S05 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E15.mp4?a=0&id=1hxJjbCNqlmEvevXiAGPSUoUQ2a4r-117
+#EXTINF:0, Arqueiro S05 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E16.mp4?a=0&id=1hyZIr0wp7Th2YAT-h5t6X5QPmAEv4Eg2
+#EXTINF:0, Arqueiro S05 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E17.mp4?a=0&id=1i-NmAdZHGxQx8zI4D3hg7gsIy_4eKjM7
+#EXTINF:0, Arqueiro S05 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E18.mp4?a=0&id=1i3aCTwBZGmI573LbuSlBPKfYei-JrIPu
+#EXTINF:0, Arqueiro S05 E19.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E19.mp4?a=0&id=1i43LYsVuScjQhKzKZ8PYibt0LlyDlR0w
+#EXTINF:0, Arqueiro S05 E20.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E20.mp4?a=0&id=1i90UxrIbUhnQc9eo7bBN22h47Q967UJG
+#EXTINF:0, Arqueiro S05 E21.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E21.mp4?a=0&id=1i91PS94xycWNoLVipKvb_i_V04nOi05Y
+#EXTINF:0, Arqueiro S05 E22.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E22.mp4?a=0&id=1iAfbvZrpsOcGc9mFmzOXr0y85JHxXjmp
+#EXTINF:0, Arqueiro S05 E23.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S05%20E23.mp4?a=0&id=1iCZVr5H3wlwYfy1UyVwmmR16v73ekpYn
+#EXTINF:0, Arqueiro S06 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E01.mp4?a=0&id=1iOO2kk-xIFWDM337dvq1o2heK3IiSq8A
+#EXTINF:0, Arqueiro S06 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E02.mp4?a=0&id=1ie_jCZqwY_CY5JdnWKQXMjZ46RRKpBPC
+#EXTINF:0, Arqueiro S06 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E03.mp4?a=0&id=1ig8fSvNDMpuhLVNxafhlNtJhDV5JmMZ1
+#EXTINF:0, Arqueiro S06 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E04.mp4?a=0&id=1ih9FrG1HeOBwc2fbJDqCQ9m5D5ufuwM1
+#EXTINF:0, Arqueiro S06 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E05.mp4?a=0&id=1ii9-xm0wxtB_TaJx1RfTskjMty6MrHYA
+#EXTINF:0, Arqueiro S06 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E06.mp4?a=0&id=1il0pnrA5RUEuq-iE-dmwo9t4PvqtSlUT
+#EXTINF:0, Arqueiro S06 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E07.mp4?a=0&id=1inLtVQRNP7UQ7QZeSlWaRTsztT73dK8a
+#EXTINF:0, Arqueiro S06 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E08.mp4?a=0&id=1inq5PO_3lGyxhfnygxA3tXBqeAboYCDl
+#EXTINF:0, Arqueiro S06 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E09.mp4?a=0&id=1isAjT3MuCDIRakKwQi8ewXJakfsoG11z
+#EXTINF:0, Arqueiro S06 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E10.mp4?a=0&id=1islcvqRXn6sB_TrJun82xnmTRb4HYE9c
+#EXTINF:0, Arqueiro S06 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E11.mp4?a=0&id=1izI5kVxlRxomTEzXgQxVXzGEoHM4sa1c
+#EXTINF:0, Arqueiro S06 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E12.mp4?a=0&id=1iwepFNtZs1YJlKJDb2lEDdqxtSYpmpTI
+#EXTINF:0, Arqueiro S06 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E13.mp4?a=0&id=1j1eCq5_ziq_UJtPbkM62zyPoKqwVndP1
+#EXTINF:0, Arqueiro S06 E14.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E14.mp4?a=0&id=1j8AmSzfL9Wd_taFiihsPFo21mFlytV9A
+#EXTINF:0, Arqueiro S06 E15.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E15.mp4?a=0&id=1jL8yVjwUKOkRAetGtGKvtTavHtuV1tSK
+#EXTINF:0, Arqueiro S06 E16.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E16.mp4?a=0&id=1jLwkjEXKouvJ3d78tqEdMX5UjOPM_GkD
+#EXTINF:0, Arqueiro S06 E17.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E17.mp4?a=0&id=1jOq0rEWhNSSrDTVd49kpuILCeNfr0sxw
+#EXTINF:0, Arqueiro S06 E18.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Arqueiro%20S06%20E18.mp4?a=0&id=1jcumzCg-8RBjRLXY2QoGyJ-MhZ0wJPEA

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Dickinson
+#EXTINF:0, Dickinson S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E02.mp4?a=0&id=1pYCM0cc0hgkuwcbzycFWub3EFEnl_RjK
+#EXTINF:0, Dickinson S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E05.mp4?a=0&id=1pZUg1GfiVds-Wx9cAXWQCTM7guN7W4s0
+#EXTINF:0, Dickinson S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E06.mp4?a=0&id=1plCblYz5AsescKkI-MxhTNXefd2f-3q_
+#EXTINF:0, Dickinson S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E07.mp4?a=0&id=1pnk51wpmIpEQuDThyADN9rbM55RC8nXI
+#EXTINF:0, Dickinson S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E08.mp4?a=0&id=1psfdyUvLTUklfC4naCI7-NAMtnTfcBB1
+#EXTINF:0, Dickinson S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E09.mp4?a=0&id=1pyY9BApMDmJ5wSnmD3pb6QFsaYMrfNrE
+#EXTINF:0, Dickinson S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Dickinson%20S01%20E10.mp4?a=0&id=1q4WbcaDob5Uh0ds6ULhdum94_9W1s04C

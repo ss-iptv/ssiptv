@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Krypton
+#EXTINF:0, Krypton S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E01.mp4?a=0&id=1WdzPhDIvNy0brxACYj13-sunXDHTxQGL
+#EXTINF:0, Krypton S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E02.mp4?a=0&id=1WkG2iovy3J-G9QZssGvGP7nlnKR7BS1P
+#EXTINF:0, Krypton S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E03.mp4?a=0&id=1WmuEkcn9v2XGkLbMCf-SVZICSzmLfWnM
+#EXTINF:0, Krypton S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E04.mp4?a=0&id=1WnESxo0UZyxdSXu0jH5LDfp6F67LvhXy
+#EXTINF:0, Krypton S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E05.mp4?a=0&id=1WnIXXuozxSJH344LofOnp74hOOuVILIq
+#EXTINF:0, Krypton S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E06.mp4?a=0&id=1WtJdgPv8vlj10O6nACuPGr3t5Gy1FMCL
+#EXTINF:0, Krypton S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E07.mp4?a=0&id=1Wx5lBYGBz565LkU0o6Au6PI6lMy0ZeZ2
+#EXTINF:0, Krypton S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E08.mp4?a=0&id=1X3j2qSfxjlGwZcIWoPaQCx1iEoOf8dNU
+#EXTINF:0, Krypton S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E09.mp4?a=0&id=1XGrseJzcLl4jw2T87GMwTrFmyIOAt1N4
+#EXTINF:0, Krypton S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S01%20E10.mp4?a=0&id=1XRH1bHfenCXZ4PN-pOZ_fOddr5ZgRCFl
+#EXTINF:0, Krypton S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E01.mp4?a=0&id=1XWZ9sGZWrsVvsw6jCaw7ri0KsGYWSAqh
+#EXTINF:0, Krypton S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E02.mp4?a=0&id=1XX0-QmgQWHiwo1m2qnpB0-PqmlPsYAVn
+#EXTINF:0, Krypton S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E03.mp4?a=0&id=1X_YrLCiYSCrsx4BeEKR7BqCnCIPYJB7A
+#EXTINF:0, Krypton S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E04.mp4?a=0&id=1XjewC4XmRFSBoSKOGPf2mHm-T2b5L0VW
+#EXTINF:0, Krypton S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E05.mp4?a=0&id=1XkASHwZ3FIrWNVDItOHDz6Kk64mnhEpQ
+#EXTINF:0, Krypton S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E06.mp4?a=0&id=1XklnD3WD_4GTLBvzdU5aWSKXPS8V06QO
+#EXTINF:0, Krypton S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E07.mp4?a=0&id=1XnstzxzDSy7jGRJAPJKJ4vaSuNCZjAo7
+#EXTINF:0, Krypton S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E08.mp4?a=0&id=1Xqd8vmrbQZzVxF9MIEtdCbwoH6MrJPFz
+#EXTINF:0, Krypton S02 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E09.mp4?a=0&id=1Y5zXQavD01fiU-DXqbcBzfrbLe7GYET7
+#EXTINF:0, Krypton S02 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Krypton%20S02%20E10.mp4?a=0&id=1Y6hsDVg76_8smapORGjAMwz31VK7xul6

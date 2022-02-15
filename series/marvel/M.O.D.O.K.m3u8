@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Marvel's M.O.D.O.K. S01 E01
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E01.mp4?a=0&id=1OCwHOCn2EaVL0kz_tQ5QWaxmbzkzMkyu
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E02.mp4?a=0&id=1OJn1vRZF_-N8hl1iaXYYiRBSNnF9ITfG
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E03.mp4?a=0&id=1OMiBAIuO3OftYMKjdoKSn9-IQCytUQUt
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E04.mp4?a=0&id=1OOqorVMGjc0qF5PjQkrIkteAOytNen2g
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E05.mp4?a=0&id=1ORfJ5yNgVxywiPiB47C6U2fyoAOvWnDL
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E06.mp4?a=0&id=1OS814HIdJURZH_hx7Bl1qmPI42TR7ZKS
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E07.mp4?a=0&id=1OUk3mM95vfrNGPt34Aak1xA5w8VrUupP
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E08.mp4?a=0&id=1OX9nx1KyyKcXctbUn705ZlAN3HWJRT9N
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E09.mp4?a=0&id=1OYtXxuidRC89_mK6ZhI391XvhUhwK3qd
+#EXTINF:0, Marvel's M.O.D.O.K. S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Marvel's%20M.O.D.O.K.%20S01%20E10.mp4?a=0&id=1OaUsJUli5-eRonKY_X4ze9KtCoLu9-7x

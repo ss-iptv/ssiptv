@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: gdriveit_bot
+#EXTINF:0, Firefly.2002.Ep01.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep01.mp4?a=0&id=12O0twEI3XYcIF7NQi_4zH7iTjHSNwtED
+#EXTINF:0, Firefly.2002.Ep02.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep02.mp4?a=0&id=1ir8BhCQQksDMC0xMKUIg_rbjLqVbZ0Bj
+#EXTINF:0, Firefly.2002.Ep03.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep03.mp4?a=0&id=1iqJtiZSUdBlS2DSQ05QWgvIlKqcnumXe
+#EXTINF:0, Firefly.2002.Ep04.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep04.mp4?a=0&id=1irMd7BYFnCblPMMPx4khREumuvTnuYm8
+#EXTINF:0, Firefly.2002.Ep05.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep05.mp4?a=0&id=1isudb8DpsdYLf_NR-AFR-2eA5c3LSzCj
+#EXTINF:0, Firefly.2002.Ep06.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep06.mp4?a=0&id=1irkvo_ZjDAftVzYgDcz5Dw8tIDTaXFZb
+#EXTINF:0, Firefly.2002.Ep07.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep07.mp4?a=0&id=1itbIBT9dBCOoTsqfrn5pV46J7GN_-Js1
+#EXTINF:0, Firefly.2002.Ep08.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep08.mp4?a=0&id=1ivrtpZQuL6wSCLBTa8nz2w9_TWv9TgCt
+#EXTINF:0, Firefly.2002.Ep09.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep09.mp4?a=0&id=1iunxpNWtN088qNOJM5g_8-l0Asveh9nS
+#EXTINF:0, Firefly.2002.Ep10.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep10.mp4?a=0&id=1itqtYiquz7bmVH3hrdGbJKBexFtsiDiy
+#EXTINF:0, Firefly.2002.Ep11.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep11.mp4?a=0&id=1izZSOS6lOfDvUlq91VnDsTeFnSGSwrQq
+#EXTINF:0, Firefly.2002.Ep12.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep12.mp4?a=0&id=1ixrg-tLX9ChivYCjIJjg0iYkGvlhuu15
+#EXTINF:0, Firefly.2002.Ep13.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep13.mp4?a=0&id=1ixPR-xAssVGgEyk-Bn29TZBDc7okAZJP
+#EXTINF:0, Firefly.2002.Ep14.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Firefly.2002.Ep14.mp4?a=0&id=1iuGf8f4nKrtb6vaqrfLeTtZRKBsp8jEA
+#EXTINF:0, Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-001.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-001.mp4?a=0&id=1izsDNPn8q81m6Yb_Z4V0zk6WQ6-nG_h4
+#EXTINF:0, Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-002.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-002.mp4?a=0&id=1iztvmh1DMoOuWvdO43W-JGckZplaOv1Z
+#EXTINF:0, Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-003.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-003.mp4?a=0&id=1j-3wwG5tHKYHzRZJ82NsouvPYGFVZ-Gc
+#EXTINF:0, Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-004.mp4
+http://152.70.214.47:5572/api/v1/redirectdownload/Serenity.2005.720p.BluRay.x264.AC3.DTS.-EuReKA-004.mp4?a=0&id=1izoKSXUoBdM4d8KJ4dPVgxcsK4xpZBXp

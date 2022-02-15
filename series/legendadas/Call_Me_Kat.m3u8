@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Call Me Kat [L] S01 E01
+#EXTINF:0, Call Me Kat [L] S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E01.mp4?a=0&id=1FYhkYS-UY3crqsik7UOv65xzgBR9EMEK
+#EXTINF:0, Call Me Kat [L] S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E02.mp4?a=0&id=1FeJQnCRvIOCT2RkGajk74wDeG9C3YFnH
+#EXTINF:0, Call Me Kat [L] S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E03.mp4?a=0&id=1FlH2oRRB75vPLRKrlLI39HuzMfBzAOZD
+#EXTINF:0, Call Me Kat [L] S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E04.mp4?a=0&id=1FlLvTaEnNv5vTrazfu5pc8uRQWBsH-ah
+#EXTINF:0, Call Me Kat [L] S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E05.mp4?a=0&id=1Fn40pWXaqgnqGlU4sl8x6fxoAHAzbsab
+#EXTINF:0, Call Me Kat [L] S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E06.mp4?a=0&id=1Fo2Tw7mZ2zTVm5OfIEEz3IgHkmOtEUBO
+#EXTINF:0, Call Me Kat [L] S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E07.mp4?a=0&id=1Fwv8WP82fb2LvOepRIcWWckcMfR2gU1O
+#EXTINF:0, Call Me Kat [L] S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E08.mp4?a=0&id=1Fz_ZAfGMjBN-qzdPRTWzuVxSlOym2UUl
+#EXTINF:0, Call Me Kat [L] S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E09.mp4?a=0&id=1G0a5bL8RkJBROeD11aJ6cwiCUnkx-wno
+#EXTINF:0, Call Me Kat [L] S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E10.mp4?a=0&id=1G79WS5T6KYf1u4KPGmKRBhL_jXysq51g
+#EXTINF:0, Call Me Kat [L] S01 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E11.mp4?a=0&id=1GCLtK_h5X5h9wTGU5kVfz0yRbxYbacc0
+#EXTINF:0, Call Me Kat [L] S01 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E12.mp4?a=0&id=1GGDhWB-sZUURrO01xEE298pByZ_Yyztj
+#EXTINF:0, Call Me Kat [L] S01 E13.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Call%20Me%20Kat%20%5BL%5D%20S01%20E13.mp4?a=0&id=1GJ0wWmRss9eZW2_2eWtZ60cvvSV3wR_k

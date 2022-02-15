@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 7SEEDS S01 E01
+#EXTINF:0, 7SEEDS S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E01.mp4?a=0&id=1fP4lHjl8ia21wr7foKruxRV1urL_mlGM
+#EXTINF:0, 7SEEDS S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E02.mp4?a=0&id=1fXz1lDtLXigr9_hcCu54-3X_6zP7KX0Y
+#EXTINF:0, 7SEEDS S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E03.mp4?a=0&id=1fZOlwKIvkk4KrO2YUmZ7qu7c9jbhySS6
+#EXTINF:0, 7SEEDS S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E04.mp4?a=0&id=1faZtOKrkuYowNoTSWE97WKOarvvH8p01
+#EXTINF:0, 7SEEDS S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E05.mp4?a=0&id=1feX0h8SPEkFVc4WWVcbZaM23IKFJWE32
+#EXTINF:0, 7SEEDS S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E06.mp4?a=0&id=1fmkThCwy59sE3FtPFMVd05OZ9pFfjaLF
+#EXTINF:0, 7SEEDS S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E07.mp4?a=0&id=1fpqjYQHBt6jg5TA_MdAHUQutCBlMVVvw
+#EXTINF:0, 7SEEDS S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E08.mp4?a=0&id=1fqZ6fEzxJHeur4CQJslJLJmYKrhq22Gi
+#EXTINF:0, 7SEEDS S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E09.mp4?a=0&id=1fqwr1TKZQULCnMpy9diDaFi7V7bC_JiN
+#EXTINF:0, 7SEEDS S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E10.mp4?a=0&id=1fsdUS5jfNRYXqBI1nRA0p1xBZlysCtub
+#EXTINF:0, 7SEEDS S01 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E11.mp4?a=0&id=1fsk06CiEBzpEfjunwlZAcfcclGzJSPz0
+#EXTINF:0, 7SEEDS S01 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S01%20E12.mp4?a=0&id=1fv-3KnR2pj6HAnn_b44Lmu5GMNRYrAeo
+#EXTINF:0, 7SEEDS S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E01.mp4?a=0&id=1fwXc19VIb_dnZCr31PgqqW9O3IajZt6r
+#EXTINF:0, 7SEEDS S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E02.mp4?a=0&id=1g0NF-rHAA_HviqumTuRDxjtqWOopjleZ
+#EXTINF:0, 7SEEDS S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E03.mp4?a=0&id=1g1a92T_7CeH6D6QcUQ_iF30IJQ2POo3W
+#EXTINF:0, 7SEEDS S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E04.mp4?a=0&id=1g3VW3-4GrYCLd9_r3YSdqmkJNE-iszLd
+#EXTINF:0, 7SEEDS S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E05.mp4?a=0&id=1g4QJmOcJGFqFCodJmAqcpn21b05ZX5Sq
+#EXTINF:0, 7SEEDS S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E06.mp4?a=0&id=1g7uJ9QD_3S7KvKi5N1ItlnXMve-m_x3r
+#EXTINF:0, 7SEEDS S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E07.mp4?a=0&id=1g7upXcLN0i2ld26x6Vl-FGJqs8r7-Fnk
+#EXTINF:0, 7SEEDS S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E08.mp4?a=0&id=1gBoz3TxF_526Zl5rq5z_JG5Ez_Wf0JOX
+#EXTINF:0, 7SEEDS S02 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E09.mp4?a=0&id=1gFARPoRDi2cEpGYp7-WihlqUFPwoUyQf
+#EXTINF:0, 7SEEDS S02 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E10.mp4?a=0&id=1gNdhvUzRiXZTGY4fK-vBgmf3YRGZwUcf
+#EXTINF:0, 7SEEDS S02 E11.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E11.mp4?a=0&id=1gJ5ZsKBpcxWqAS2SdLXB7OVu7eiewALg
+#EXTINF:0, 7SEEDS S02 E12.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/7SEEDS%20S02%20E12.mp4?a=0&id=1gS6j3MoPV671BW3CUkGpPaQ4e1s7MpIy

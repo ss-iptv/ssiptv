@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Catherine the Great
+#EXTINF:0, Catherine the Great S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Catherine%20the%20Great%20S01%20E01.mp4?a=0&id=1AdGkbQuNGW2HhTZG5lmTQQhNmBlEab3C
+#EXTINF:0, Catherine the Great S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Catherine%20the%20Great%20S01%20E02.mp4?a=0&id=1Af6eIK_GiE0IUB43EoBNQP0OHLh_-B-D
+#EXTINF:0, Catherine the Great S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Catherine%20the%20Great%20S01%20E03.mp4?a=0&id=1AgOQ2zcizaXJuKhFEkjqrOpA69B7X_JP
+#EXTINF:0, Catherine the Great S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Catherine%20the%20Great%20S01%20E04.mp4?a=0&id=1Ag_peSkGlGW5OFhqfDGzErG0DrCYyTwj

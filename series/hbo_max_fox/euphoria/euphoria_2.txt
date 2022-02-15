@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 2° Temporada
+#EXTINF:0, 1.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/1.mp4?a=0&id=1BoKkC-vPwNYOQ-5Zx-nKN35LDD6wb9Yz
+#EXTINF:0, 2.mp4
+https://m3u.herokuapp.com/api/v1/redirectdownload/2.mp4?a=0&id=1CJI9LyacloxnKsYR01XqzwRahmsx6-Hx

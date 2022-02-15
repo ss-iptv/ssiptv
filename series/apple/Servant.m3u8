@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Servant
+#EXTINF:0, Servant S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E01.mp4?a=0&id=13PXRykGZKn3zWPMHMmYQ_BsvlE4UP4Uu
+#EXTINF:0, Servant S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E02.mp4?a=0&id=1iPuPk--MZOVg0Ok6FDv0q0bIbqpj2Vto
+#EXTINF:0, Servant S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E03.mp4?a=0&id=13Vrm8PCrOG6KOX_rD6vDT_Je6oYXoFD7
+#EXTINF:0, Servant S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E04.mp4?a=0&id=13_A1eEt0umVcV2RoMFNw5Q8rEQ7DBMsR
+#EXTINF:0, Servant S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E05.mp4?a=0&id=13acmVMKlG2TFQL8F5KbxRNqe7_u5DKC9
+#EXTINF:0, Servant S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E06.mp4?a=0&id=13cUnk11EuT2AwL1BbjkDscWLluU5P0sX
+#EXTINF:0, Servant S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E07.mp4?a=0&id=1io8mGjvcDo9rx69gLt1r2cXyIqdXAw7L
+#EXTINF:0, Servant S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E08.mp4?a=0&id=13dGV9iSOEIIKh87bnmy916vNu8-rg7y0
+#EXTINF:0, Servant S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E09.mp4?a=0&id=13dgfwI2xOaYrXh2hxFFs9CX2aXgV1_me
+#EXTINF:0, Servant S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S01%20E10.mp4?a=0&id=13eVe8sMBvTu0Qt5h77hGuxZ0v9VvVhkE
+#EXTINF:0, Servant S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E01.mp4?a=0&id=14p8nOsZGarqg5UbqX0YBdGySkk5r9WyR
+#EXTINF:0, Servant S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E02.mp4?a=0&id=17x7nBFqOuEbgj4X2GcyQ5GNigyc3hRhh
+#EXTINF:0, Servant S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E03.mp4?a=0&id=17zoJz0_8cCr8e5zRu5sYdosxVnJiCvBL
+#EXTINF:0, Servant S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E04.mp4?a=0&id=188a95wuudcgtYo0NtupR51WBrNqSkuaA
+#EXTINF:0, Servant S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E05.mp4?a=0&id=188ptGIGpJg6oyAMug8c5y3yfnQDHQQfx
+#EXTINF:0, Servant S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E06.mp4?a=0&id=1jJEOfYkS8lKeB_kihdwwsjEiRu4z1h-g
+#EXTINF:0, Servant S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E07.mp4?a=0&id=1jO3yjGIewBz4WaIV89JGtAgcQbBs0YLn
+#EXTINF:0, Servant S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E08.mp4?a=0&id=1jbeQ-icZD2l2moQlK6SbM7OgVY-9tRLe
+#EXTINF:0, Servant S02 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E09.mp4?a=0&id=1k8g9X-k6rdojFchjUkGK8bBlqtIfLTtu
+#EXTINF:0, Servant S02 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Servant%20S02%20E10.mp4?a=0&id=1kMgKNHAzDs4DQho4m8jGvNOlYFQe9rAB

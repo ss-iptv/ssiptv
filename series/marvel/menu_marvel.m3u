@@ -1,0 +1,37 @@
+ #EXTM3U size="medium"
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Agente Carter
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Agente_Carter.m3u8 
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Agentes da S.H.I.E.L.D
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Agentes_da_S.H.I.E.L.D.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",M.O.D.O.K
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/M.O.D.O.K.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Fugitivos da Marvel
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Fugitivos_da_Marvel.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Inumanos
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Inumanos.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Manto&Adaga
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Manto_Adaga.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Jessica Jones
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Jessica_Jones.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Demolidor
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Demolidor.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Luke Cage
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Luke_Cage.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Os Defensores
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Os_Defensores.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Punho de Ferro
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Punho_de_Ferro.m3u8
+
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Marvel 616
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/marvel/Marvel_616.m3u8

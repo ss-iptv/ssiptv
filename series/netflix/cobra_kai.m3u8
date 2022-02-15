@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: S04-COMUNIDADE DFS
+#EXTINF:0, S04X01
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X01%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1cVLc_yj6uyhW54KHvuOKm-JMMawdecUl
+#EXTINF:0, S04X02
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X02%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1zLEGT0nCcWrLvViTo_tUz0AaPhikqaRG
+#EXTINF:0, S04X03
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X03%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1hou29UofLjcwogG_KcdAjJpTjZeQQX7N
+#EXTINF:0, S04X04
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X04%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1ip8v6gDeZGsm63B2ohD4lFC9a9cyDAGW
+#EXTINF:0, S04X05
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X05%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1h_lSHkd835UR_kuafqX_UXUSETXQGded
+#EXTINF:0, S04X06
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X06%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1FEIMXD3Zws5COjAWvU707_G8P-Qrkrdj
+#EXTINF:0, S04X07
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X07%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1adxdFbkA1oU9hKN4yu9E9JIc327AGUT8
+#EXTINF:0, S04X08
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X08%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1BrEkDrSOZ8Os5AZgVwcGhl8qk_Ey0UW3
+#EXTINF:0, S04X09
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X09%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1HZ2oLDW0B6fnUGOw2uCkJn0lbtQiO-nF
+#EXTINF:0, S04X10
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/S04X10%20DUB-DUAL%20COMUNIDADE%20DFS.mp4?a=0&id=1uqe6BQ6w06BnJlh2ODJNud0_afYhKXoG

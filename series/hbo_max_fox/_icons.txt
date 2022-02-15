@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="https://img.icons8.com/ios/100/4a90e2/airport.png" group-title="Aeroporto Area Restrita",
+
+
+<img src="https://img.icons8.com/ios/100/4a90e2/airport.png"/>
+
+<img src="https://img.icons8.com/ios-filled/100/4a90e2/tv.png"/>

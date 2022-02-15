@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Pretty Little Liars The Perfectionists  S01 E01
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E01.mp4?a=0&id=1QT9DT0LIgmUladk6RR9h6r20o90Uko6f
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E02.mp4?a=0&id=1QTEEcgyEnwbDtXBoBHnvNsEIJpF4guaL
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E03.mp4?a=0&id=1QU7LcdICifgy_7XxF5VWcFFzVzA5mVMW
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E04.mp4?a=0&id=1QUEReuwN00mnzuvhH9x4qh236m1PQYkF
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E05.mp4?a=0&id=1QUftd6QNHK33-x1_1TbN8FLDyqbRLbsh
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E06.mp4?a=0&id=1QUuA6L9Zr0pVEmrAZfXh2FgZnjakJlMz
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E07.mp4?a=0&id=1QV6tmtahJ92KJ7ofQUCbrQYV7GtXZJ08
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E08.mp4?a=0&id=1QVnysdiwfMZR7W7iwjOvMdbKJ54D5PWn
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E09.mp4?a=0&id=1QWd0dlzcU09wBnWLKlli7UcWxgfjFMW-
+#EXTINF:0, Pretty Little Liars The Perfectionists  S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Pretty%20Little%20Liars%20The%20Perfectionists%20%20S01%20E10.mp4?a=0&id=1QYgXsPz153DLRO1vdZaXbqJRtoi36DCi

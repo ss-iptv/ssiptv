@@ -1,0 +1,30 @@
+#EXTINF:-1, CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1, CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1, Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+#EXTINF:-1, Atlãndida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1, Transamerica
+http://transamerica.crossradio.com.br:9112/stream/1/
+#EXTINF:-1, Beat 98
+http://streaming13.hstbr.net:8072/live
+#EXTINF:-1, Band FM SP
+http://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w845145933.m3u8
+#EXTINF:-1, Antena 1 SP
+https://antenaone.crossradio.com.br/stream/1;?type=mp4
+#EXTINF:-1, Antena 1 RJ
+http://a1rj.streams.com.br:7801/sm
+#EXTINF:-1, Feliz FM BA
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1, Difusora Acreana
+http://midia.ac.gov.br/difusora
+#EXTINF:-1, Aldeia FM 96.9 Rio Branco
+http://midia.ac.gov.br/aldeiafm
+#EXTINF:-1, Cultura FM 95.1
+http://srv04.brasilstream.com.br:8040/mp3
+#EXTINF:-1, HOT FM 107 SP
+http://flash8.crossdigital.com.br/id2266/id2266/chunklist_w1620551044.m3u8
+#EXTINF:-1, 89 FM A RADIO ROCK
+http://streamingV2.shoutcast.com:80/89-a-radio-rock-sao-paulo-

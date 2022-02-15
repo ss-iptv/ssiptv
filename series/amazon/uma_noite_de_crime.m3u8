@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Uma Noite de Crime
+#EXTINF:0, 949267.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949267.mp4?a=0&id=18dN3H5SVRSCBSIEf-WNyVoIqZzLRm4LL
+#EXTINF:0, 949268.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949268.mp4?a=0&id=1oJ_y-qzLhKxmNGwK6zq1era1uscJweri
+#EXTINF:0, 949269.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949269.mp4?a=0&id=18f-mgIwJ_p5fbweckmw-_JeT5qzzlFBc
+#EXTINF:0, 949270.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949270.mp4?a=0&id=18h7BPAhD1lBuiEKWdckQEnagqLRkTNua
+#EXTINF:0, 949271.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949271.mp4?a=0&id=1fpYSxPTNgQuXH018tK7igEtEPVANE2vD
+#EXTINF:0, 949272.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949272.mp4?a=0&id=1yRvwmK6WGX5I8tsCXa3jdNaJfEgPWRZY
+#EXTINF:0, 949273.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949273.mp4?a=0&id=1LNgBdMpqpIqOd9lae0f9miUtM_Y-7o48
+#EXTINF:0, 949274.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949274.mp4?a=0&id=1Ctx4I1N9CeOKHrg7TgstJtJDdNJcp22r
+#EXTINF:0, 949275.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949275.mp4?a=0&id=1qVmCiIhqJYHFqAqH_-PMKkQo-p-Swk8K
+#EXTINF:0, 949276.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949276.mp4?a=0&id=1FckkOm0FOM7hVEXwtxlpgEA8t0-8Ef4D
+#EXTINF:0, 949277.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949277.mp4?a=0&id=1VVz3UVtWYFqBmGi4aMrbSLgPbchUctjg
+#EXTINF:0, 949278.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949278.mp4?a=0&id=1JNXFzOEk_zN1wr8GiqY4URh4tUVvLB2U
+#EXTINF:0, 949279.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949279.mp4?a=0&id=1uJpfHYCUi6cA3fzWIpldTwWev8jUFcv3
+#EXTINF:0, 949280.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949280.mp4?a=0&id=1Uv4soCxoLIHN2A-h4Brm2us_fJwMA7j3
+#EXTINF:0, 949281.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949281.mp4?a=0&id=1cEIRZmSo_DZo5VjKXFv3eMtnZ2INMIIF
+#EXTINF:0, 949282.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949282.mp4?a=0&id=13CFbQGFmSUo3G60HEQjTdFhoGLNbpsDu
+#EXTINF:0, 949283.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949283.mp4?a=0&id=18Ch8S97kF8zoohycz392h_-1fAz24ezg
+#EXTINF:0, 949284.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949284.mp4?a=0&id=1lKbtGkNEJ8Wxh96g8F4qVEbzEvyxoADm
+#EXTINF:0, 949285.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949285.mp4?a=0&id=12wHE_BL9nUvIlb9L5eOhQzgGKX91zUe7
+#EXTINF:0, 949286.mp4
+http://meu-drive.herokuapp.com/api/v1/redirectdownload/949286.mp4?a=0&id=1OAtCgFhK-sC1Cw3Szo5VQZ05dqHoV6yi

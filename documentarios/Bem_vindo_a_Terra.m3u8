@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1° Temporada
+#EXTINF:0, 1.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/1.mp4?a=0&id=1rCToawCHXlJAWNKszU0ibbkE9bTyOn6A
+#EXTINF:0, 2.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/2.mp4?a=0&id=1MRkW1Dq2SI5op4MvbUkCMr_vbzaPOmto
+#EXTINF:0, 3.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/3.mp4?a=0&id=1LlgE4kSV6UVjpha6wyxDeQR3KqGW_WBa
+#EXTINF:0, 4.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/4.mp4?a=0&id=1Dpyk8NVzq4uEr-4VBYhfJ1tYNj02KKgg
+#EXTINF:0, 5.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/5.mp4?a=0&id=1l_JNGxN5PZDE5I2-Om1ehU3zswpXVjAO
+#EXTINF:0, 6.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/6.mp4?a=0&id=1azoHyGguCpYyvG79rwWQRF8DCuXWlQS9

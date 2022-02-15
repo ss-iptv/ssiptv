@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 22.11.63
+#EXTINF:0, 22.11.63 S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E01.mp4?a=0&id=1g7Xeh0Ya9VNc9Lk7HgM_ddbkR0SC-0Gt
+#EXTINF:0, 22.11.63 S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E02.mp4?a=0&id=1g9OVXH3W_VkfFpToApaQTooEDvIfQW0w
+#EXTINF:0, 22.11.63 S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E03.mp4?a=0&id=1gCrG2cOMxO50tcj7B3D4RKYa9ABxWMtQ
+#EXTINF:0, 22.11.63 S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E04.mp4?a=0&id=1gFtAqSnEFLIIk452vZGu9uT5sz22uUMF
+#EXTINF:0, 22.11.63 S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E05.mp4?a=0&id=1gIYFQWrXguES1fn9yuod7NlUymtOfma7
+#EXTINF:0, 22.11.63 S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E06.mp4?a=0&id=1gKdMlIs6kZk633rR255im24ttnGWjW2k
+#EXTINF:0, 22.11.63 S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E07.mp4?a=0&id=1gOc3che6hNVDtyYpWW3PpWBt-P_9FO9o
+#EXTINF:0, 22.11.63 S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/22.11.63%20S01%20E08.mp4?a=0&id=1gTLzwPrhr1ESx9RPXJM3UfQacqG4YEBG

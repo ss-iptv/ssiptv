@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Os Ausentes
+#EXTINF:0, Os Ausentes S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E01.mp4?a=0&id=1ZtoxJWi1BVOQeY40BqkBmolFKifUiejO
+#EXTINF:0, Os Ausentes S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E02.mp4?a=0&id=1Zw9gynKkClHUTJsgXh7cYogAGOWXoCVv
+#EXTINF:0, Os Ausentes S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E03.mp4?a=0&id=1_1bn_6KuVeWFxT5XapdojGnZUOBAofmC
+#EXTINF:0, Os Ausentes S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E04.mp4?a=0&id=1_619Brnk2fUvYUMu7AU-NvUpKotEionm
+#EXTINF:0, Os Ausentes S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E05.mp4?a=0&id=1_7Koytwmrg1LIbtp8kB55s5vBIINgn6y
+#EXTINF:0, Os Ausentes S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E06.mp4?a=0&id=1_Dt2vYUt0m1bLZs-9Fgs5LV-jNSAqZa_
+#EXTINF:0, Os Ausentes S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E07.mp4?a=0&id=1_HfXikGwYhGGxyQEGvnfCpM8gKIJzfuz
+#EXTINF:0, Os Ausentes S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E08.mp4?a=0&id=1_PDKTruZvPdofuYQ18LEo6xMnwLvHsH8
+#EXTINF:0, Os Ausentes S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E09.mp4?a=0&id=1_QGFROSQe9G6GH2phhsK5is-uKzcgOAz
+#EXTINF:0, Os Ausentes S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Os%20Ausentes%20S01%20E10.mp4?a=0&id=1_RgeUiXPd5gRGSNfj8syyLIqAwRsxKgx

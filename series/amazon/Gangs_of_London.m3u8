@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Gangs of London
+#EXTINF:0, Gangs of London [L]  S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E01.mp4?a=0&id=1cs7E3RQYGelGgqdX6GhdLL9O3prXXD92
+#EXTINF:0, Gangs of London [L]  S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E02.mp4?a=0&id=1cssE6nfBPSkJbPQHkHDBocBCcaQDBOsc
+#EXTINF:0, Gangs of London [L]  S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E03.mp4?a=0&id=1ctVC50WGtPZ6cT9ooyOc8-K7mLM_k39B
+#EXTINF:0, Gangs of London [L]  S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E04.mp4?a=0&id=1cu04Vin6VIhJyoCQcXA5Zb_B_pOBEN-7
+#EXTINF:0, Gangs of London [L]  S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E05.mp4?a=0&id=1cuaE4tkGBxpImNjkT2wofrWSxZJJ465i
+#EXTINF:0, Gangs of London [L]  S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E06.mp4?a=0&id=1cvAPPnKelBn2dUYbfF_GPCNolUqNQr5t
+#EXTINF:0, Gangs of London [L]  S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E07.mp4?a=0&id=1czVwkErGzpwECfugCx9fZ6LeVoWQWlfL
+#EXTINF:0, Gangs of London [L]  S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E08.mp4?a=0&id=1d0W_FUjWC8qf7V9qMA3ItpeNlY6zW9Hl
+#EXTINF:0, Gangs of London [L]  S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Gangs%20of%20London%20%5BL%5D%20%20S01%20E09.mp4?a=0&id=1d2_w-E16V4wNM2WrfKKNl3ROPFfuvnn-

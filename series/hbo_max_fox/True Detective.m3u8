@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: True Detective S01 E01
+#EXTINF:0, True Detective S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E01.mp4?a=0&id=1RCvDByxC-AoRPPSPFQ0tCpACvNPVyG0C
+#EXTINF:0, True Detective S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E02.mp4?a=0&id=1RDXh_ApPcqLaz0uXIxh5HoSe7BeYaGyT
+#EXTINF:0, True Detective S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E03.mp4?a=0&id=1RDnSXDaO2Ws_RnF0SA16Dtdn68fBS1Ab
+#EXTINF:0, True Detective S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E04.mp4?a=0&id=1RDy1Kl_42vx3iz86MmHHuIjVj2QOeHah
+#EXTINF:0, True Detective S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E05.mp4?a=0&id=1REw3YBL8XtKtqisEUgTDvh9AQcgUii9l
+#EXTINF:0, True Detective S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E06.mp4?a=0&id=1RFsG8tx_3nuWu0zsgUL-HN8gDBhG0SDQ
+#EXTINF:0, True Detective S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E07.mp4?a=0&id=1RG6D-YPmeJWa92gbksSh4qrkOseONl-H
+#EXTINF:0, True Detective S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S01%20E08.mp4?a=0&id=1RHZAmb8tjA9Mf2AahvVL2EfDvRLtl6qX
+#EXTINF:0, True Detective S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E01.mp4?a=0&id=1RHlUrSRffZPsCUErvpty30nQkS9fzccG
+#EXTINF:0, True Detective S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E02.mp4?a=0&id=1RHmCP__cF0F5mZWD1o50hyDH4WuO-SCT
+#EXTINF:0, True Detective S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E03.mp4?a=0&id=1RHoa0d77HMONS0QVAkTDzmCv8ThEFpXC
+#EXTINF:0, True Detective S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E04.mp4?a=0&id=1RI-q9WmQhhSMqWf7FsMnwDAMO2ed8ST7
+#EXTINF:0, True Detective S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E05.mp4?a=0&id=1RIJdfwNJdY0U5mSWLLB397e60Wq0WEan
+#EXTINF:0, True Detective S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E06.mp4?a=0&id=1RIgEpq8_fyjG12RehAOxWwnMx1ueQI2L
+#EXTINF:0, True Detective S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E07.mp4?a=0&id=1RIkWNq-SIUojs-ew2FyJSSmCOD0IpK1R
+#EXTINF:0, True Detective S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S02%20E08.mp4?a=0&id=1RJcgxi0CI0aIqSPjiUKqhVCUwnegWur6
+#EXTINF:0, True Detective S03 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E01.mp4?a=0&id=1RJhPzh2P65ZiBiIWUcTazVoai-knDsyy
+#EXTINF:0, True Detective S03 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E02.mp4?a=0&id=1RLRk0cLBiuDAEZXYbg9V1iS55sW8QnYt
+#EXTINF:0, True Detective S03 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E03.mp4?a=0&id=1RLU8pJ4Umeu2QYlyIo7NccMO-ZYOfSVw
+#EXTINF:0, True Detective S03 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E04.mp4?a=0&id=1RLeC-4X4frMFYE2tm8R3IXPBq4aUf7m-
+#EXTINF:0, True Detective S03 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E05.mp4?a=0&id=1RMrJf4pewYqvKNYFUxKfEmh7Y7tQR6rm
+#EXTINF:0, True Detective S03 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E06.mp4?a=0&id=1RNQ5qatzP0ITtU1NU8g-d1Viu9Fb0Ghn
+#EXTINF:0, True Detective S03 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E07.mp4?a=0&id=1RO7Cw0ZRZf6yZaCpw11Rl9efewWwURC-
+#EXTINF:0, True Detective S03 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/True%20Detective%20S03%20E08.mp4?a=0&id=1ROA8Z62-6SE8p5Z_mSgY5ydSJtgSJTnk

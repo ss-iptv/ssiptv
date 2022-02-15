@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Lovecraft Country
+#EXTINF:0, Lovecraft Country S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E01.mp4?a=0&id=1AlcPiN53qzp04H7IUgapKlIuXkjEJnZG
+#EXTINF:0, Lovecraft Country S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E02.mp4?a=0&id=1BQeKM9jCT2d-yoLCXJq59fFPlRlqV9fz
+#EXTINF:0, Lovecraft Country S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E03.mp4?a=0&id=1BQkS-5HjtJ3j6Kkuo3s43EsVfSpYAZeC
+#EXTINF:0, Lovecraft Country S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E04.mp4?a=0&id=1CcigCextecxwENVYsAw79Uu5FkK7CM3z
+#EXTINF:0, Lovecraft Country S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E05.mp4?a=0&id=1D2pMTzoSah2xFmNn_gK6ne_qgdpZvVmv
+#EXTINF:0, Lovecraft Country S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E06.mp4?a=0&id=1D2uFEN4kB_BoCsK1CBeU5tuHtazGHFNH
+#EXTINF:0, Lovecraft Country S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E07.mp4?a=0&id=1DRD5eIQuGgJ3VbQEmxlwMQHfDH48xQxp
+#EXTINF:0, Lovecraft Country S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E08.mp4?a=0&id=1DRzVV21BvYRfheYjm-efKF4a1bhT3kQo
+#EXTINF:0, Lovecraft Country S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E09.mp4?a=0&id=1DS6YPqsVKxfNy3tvsxk9WzOLirBeSKnT
+#EXTINF:0, Lovecraft Country S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Lovecraft%20Country%20S01%20E10.mp4?a=0&id=1DT6-F6fezWGl7y0Iw-PjgvDyqbB3vEZi

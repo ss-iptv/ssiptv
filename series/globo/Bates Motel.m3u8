@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: _Bates Motel
+#EXTINF:0, Bates Motel S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E01.mp4?a=0&id=1Y0cSHHl3VArd-FX93aYa3-FcysevtPof
+#EXTINF:0, Bates Motel S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E02.mp4?a=0&id=1Y1hIM_wgKmur3hLWrRBpqnWH4yySyFeg
+#EXTINF:0, Bates Motel S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E03.mp4?a=0&id=1Y25fn8Npl5WJh5tvFWFT3kFBjzVHX2Ep
+#EXTINF:0, Bates Motel S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E04.mp4?a=0&id=1a4We1zXg0iPUXfPQer6MnnFE9I4favlb
+#EXTINF:0, Bates Motel S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E05.mp4?a=0&id=1a4oVcqxO0xH4WACabVoXOqAB6-4iXDJh
+#EXTINF:0, Bates Motel S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E06.mp4?a=0&id=1Y2tUj0wGdKulzQIapRWWVcNuzc0Cp5aC
+#EXTINF:0, Bates Motel S01 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E07.mp4?a=0&id=1a5iLahg44GkmvEBqvz5UvLBEFRa9ZdRe
+#EXTINF:0, Bates Motel S01 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E08.mp4?a=0&id=1a6CZvCDKwoVThZZ5H9L0MSnlp5LEThyq
+#EXTINF:0, Bates Motel S01 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E09.mp4?a=0&id=1Y4rJC4UoF01g6zGsHEMifebNgfwZvUpL
+#EXTINF:0, Bates Motel S01 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S01%20E10.mp4?a=0&id=1Y5Uhp7BVtKlQz5HwC-ZDPx2VRL84Mv0d
+#EXTINF:0, Bates Motel S02 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E01.mp4?a=0&id=1a6q3SqEbznssmfoSBI2TpUiwin9H6GQ3
+#EXTINF:0, Bates Motel S02 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E02.mp4?a=0&id=1Y78C17CupEB4azvTqg6jJw-cytgTTAik
+#EXTINF:0, Bates Motel S02 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E03.mp4?a=0&id=1Y8-9b6Daoa5sTNG_5tnl_Rhwud-gK_vM
+#EXTINF:0, Bates Motel S02 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E04.mp4?a=0&id=1a72ut63x6zPcXJ_Jq_gV5ifHOFq9OXMU
+#EXTINF:0, Bates Motel S02 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E05.mp4?a=0&id=1a7IHvRBks0oaaIc6KLHPPWQk5FzZhFSm
+#EXTINF:0, Bates Motel S02 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E06.mp4?a=0&id=1a7KX6Wez6TdpibOD-w7c9V9FItNtx3MD
+#EXTINF:0, Bates Motel S02 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E07.mp4?a=0&id=1v9XdXJltJzzL2Y62PLBv5qSCRPvJZxFl
+#EXTINF:0, Bates Motel S02 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E08.mp4?a=0&id=1v9vge2QMwItndkOD7FdNgJKkQK2m9pAa
+#EXTINF:0, Bates Motel S02 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E09.mp4?a=0&id=1aA8S5oooTkvp6ohAIZHCSZnRBFv1y2Kc
+#EXTINF:0, Bates Motel S02 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S02%20E10.mp4?a=0&id=1aAHgAXmMGZEs9EN4xguBN0Vgp-KYvQ47
+#EXTINF:0, Bates Motel S03 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E01.mp4?a=0&id=1YAIL6iNoir8q1Rr4efYWzhVa5Z_2iMti
+#EXTINF:0, Bates Motel S03 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E02.mp4?a=0&id=1YAcR-T2IM8foiYS3d64D05LfHOdQOg6u
+#EXTINF:0, Bates Motel S03 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E03.mp4?a=0&id=1YB2TYNB2O4sH9AXgIn3RStQwHd5GsQiX
+#EXTINF:0, Bates Motel S03 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E04.mp4?a=0&id=1aANprIpc5sVY3GvtXcvVuRNlz3Ssu8TY
+#EXTINF:0, Bates Motel S03 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E05.mp4?a=0&id=1aAYLqsB20QHOFLYQtIV82qwFtQazYgxV
+#EXTINF:0, Bates Motel S03 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E06.mp4?a=0&id=1YC-b1_fWPzQv5owEFgOkest9mv14AjQy
+#EXTINF:0, Bates Motel S03 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E07.mp4?a=0&id=1YCOxKKlnlJI8vL4vtO3U-uwekQFfqyzn
+#EXTINF:0, Bates Motel S03 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E08.mp4?a=0&id=1YCcgEk1FOkK43aoQF0AGsJyZF5ECjLC4
+#EXTINF:0, Bates Motel S03 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E09.mp4?a=0&id=1YCfQIFeydPjQwkveVPefysrqRzzwn6gM
+#EXTINF:0, Bates Motel S03 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S03%20E10.mp4?a=0&id=1YD0v6v3LUP7wYhT6q6nsVM8E8gA51elO
+#EXTINF:0, Bates Motel S04 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E01.mp4?a=0&id=1YDl2Z5zpb48a9jkExV1orxQa5pN1YCLz
+#EXTINF:0, Bates Motel S04 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E02.mp4?a=0&id=1YEDsnBQrbtnSqaAIT0vH0hLenxsNbQ7M
+#EXTINF:0, Bates Motel S04 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E03.mp4?a=0&id=1YENPMVpmqhzky7sIcdH3R43cfO_q3A_X
+#EXTINF:0, Bates Motel S04 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E04.mp4?a=0&id=1v7TlxRo2rbE5NlIbjoLjJqe6jRgv8Dfy
+#EXTINF:0, Bates Motel S04 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E05.mp4?a=0&id=1YEa9Nw29YTh__b3vFiFyEdY87YmZ1JaJ
+#EXTINF:0, Bates Motel S04 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E06.mp4?a=0&id=1YEcVcyGxCyV7gDQggU-dW7lHy1sX0dFx
+#EXTINF:0, Bates Motel S04 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E07.mp4?a=0&id=1YFHuuN5XDKWv0XKTn_ABaabWGun_FOKP
+#EXTINF:0, Bates Motel S04 E08.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E08.mp4?a=0&id=1YFMKDJ050UfWiGAMW4O1uQQG2DVxM1M8
+#EXTINF:0, Bates Motel S04 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E09.mp4?a=0&id=1aC5sr_lgqGNr9nu3vtFQhDwFbRBV61hi
+#EXTINF:0, Bates Motel S04 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S04%20E10.mp4?a=0&id=1YFX7xOJ17kjkcWsx9wKzfEvsFMMd16a2
+#EXTINF:0, Bates Motel S05 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E01.mp4?a=0&id=1YGHleMMGbS_jkdYnZzRWBYd9qGib8JKh
+#EXTINF:0, Bates Motel S05 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E02.mp4?a=0&id=1aCbNc5Z_4vAYU_v0faAcvaipakBLwVkV
+#EXTINF:0, Bates Motel S05 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E03.mp4?a=0&id=1aCrbYwXH-i9ObeFFaZ-oH0_P9i5rxRuX
+#EXTINF:0, Bates Motel S05 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E04.mp4?a=0&id=1v8uPE3Rk7PZYgEnBqxgmxNA2-OQviC6K
+#EXTINF:0, Bates Motel S05 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E05.mp4?a=0&id=1YJT7PFSXoE22371RWp5zt3jWb7bxm-xR
+#EXTINF:0, Bates Motel S05 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E06.mp4?a=0&id=1YJpoNzURfJ-BxcOAfZkNsNmNoRqOMXjj
+#EXTINF:0, Bates Motel S05 E07.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E07.mp4?a=0&id=1YKKF81lXq9aqtrSqvppwvBPslJLmF2Z1
+#EXTINF:0, Bates Motel S05 E09.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E09.mp4?a=0&id=1YKx5sx5GGB-PBWJKv39vk7PjHuYiFss6
+#EXTINF:0, Bates Motel S05 E10.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Bates%20Motel%20S05%20E10.mp4?a=0&id=1YL1G9yb-5WygU1_obogr_yYOPZiXYy3n

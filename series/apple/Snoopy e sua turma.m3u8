@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: Snoopy
+#EXTINF:0, Snoopy e sua turma S01 E01.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Snoopy%20e%20sua%20turma%20S01%20E01.mp4?a=0&id=1qib0IdtSIEdOfSsIcKRbON_GzmOlMSEF
+#EXTINF:0, Snoopy e sua turma S01 E02.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Snoopy%20e%20sua%20turma%20S01%20E02.mp4?a=0&id=1qiiyrlefl6bjl_PDZmtM7sn4zV73ZVbT
+#EXTINF:0, Snoopy e sua turma S01 E03.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Snoopy%20e%20sua%20turma%20S01%20E03.mp4?a=0&id=1IG27GhaLYqRp2MkpPG_u8OPEWwldjhZf
+#EXTINF:0, Snoopy e sua turma S01 E04.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Snoopy%20e%20sua%20turma%20S01%20E04.mp4?a=0&id=1r9gXs-VI-0lDnKisnI4mmO1QE63ensjg
+#EXTINF:0, Snoopy e sua turma S01 E05.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Snoopy%20e%20sua%20turma%20S01%20E05.mp4?a=0&id=1rDWXQIQscC4YfTRno-QHIoagRVgrsVDX
+#EXTINF:0, Snoopy e sua turma S01 E06.mp4
+https://meu-drive.herokuapp.com/api/v1/redirectdownload/Snoopy%20e%20sua%20turma%20S01%20E06.mp4?a=0&id=1rF-uGQE2TwrCITkGCDjQMQwxQcgXghhs
