@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/fundacao.
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/Snoopy%20e%20sua%20turma.m3u8
 
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Snoopy no Espaço
+#EXTBG: #11609E
+https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/Snoopy%20no%20Espa%C3%A7o.m3u8
+
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",CALLS
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/apple/Calls.m3u8

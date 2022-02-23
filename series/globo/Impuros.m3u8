@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTENC: UTF-8
+#PLAYLIST: 1° Temporada
+#EXTINF:-1 group-title="1° Temporada", 1x1.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x1.mp4?a=0&id=1EYen33w-FuXoc3C1gWDpYtACHTeLpq6_
+#EXTINF:-1 group-title="1° Temporada", 1x10.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x10.mp4?a=0&id=1JyHdXwl7qFcw2iVG5BHSooKlos6DaNSA
+#EXTINF:-1 group-title="1° Temporada", 1x2.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x2.mp4?a=0&id=1DqPsCi7X7yG9C1JqOMTesymyTY02AB0m
+#EXTINF:-1 group-title="1° Temporada", 1x3.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x3.mp4?a=0&id=1qnF3dhGd3jdwKtL9UWBHplIMHoWR5wEk
+#EXTINF:-1 group-title="1° Temporada", 1x4.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x4.mp4?a=0&id=1YEW7oYdnhMPQ--H2IkXtVxBvzqif9Qwv
+#EXTINF:-1 group-title="1° Temporada", 1x5.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x5.mp4?a=0&id=14jj12Eimgh-b0Ol4jssTWsIuc72tiTEw
+#EXTINF:-1 group-title="1° Temporada", 1x6.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x6.mp4?a=0&id=1urE60CriWp9HAebvZFDuum4kk1HIQv5-
+#EXTINF:-1 group-title="1° Temporada", 1x7.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x7.mp4?a=0&id=1LlJs-6SSTjP2VAsxs-7LMUMNfjKTXjH0
+#EXTINF:-1 group-title="1° Temporada", 1x8.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x8.mp4?a=0&id=16XQQmNbd539KeA8nWc9vrsxCdR5rsOIb
+#EXTINF:-1 group-title="1° Temporada", 1x9.mp4
+https://educa.eu.org/api/v1/redirectdownload/1x9.mp4?a=0&id=1vacrfd6L-M-T6jp81NBdMBX8fp4vOEiB
+
+#PLAYLIST: 2° Temporada
+#EXTINF:-1 group-title="2° Temporada", 2x1.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x1.mp4?a=0&id=18nTRHZKfnzRHAvt_gcNQ8_fycEtb7H08
+#EXTINF:-1 group-title="2° Temporada", 2x10.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x10.mp4?a=0&id=18JBAhNw4s6K_trUGqUql5YyOuGcMnhOP
+#EXTINF:-1 group-title="2° Temporada", 2x2.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x2.mp4?a=0&id=19lHd6t22X5Rf_O6cqKVP4HCrP2xbsDUS
+#EXTINF:-1 group-title="2° Temporada", 2x3.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x3.mp4?a=0&id=1P2ugiuegrpfVof0jxVG9Jyd25iRp6RQa
+#EXTINF:-1 group-title="2° Temporada", 2x4.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x4.mp4?a=0&id=1zizm8Fjzf6e83IleHldFIV9uSJ4z7E9j
+#EXTINF:-1 group-title="2° Temporada", 2x5.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x5.mp4?a=0&id=1Mbgs_ydjHBZp90nJUsOV16gVTsJpust6
+#EXTINF:-1 group-title="2° Temporada", 2x6.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x6.mp4?a=0&id=1kH7D_e0D5DqDaEs80Vyci0ium4-Su2rd
+#EXTINF:-1 group-title="2° Temporada", 2x7.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x7.mp4?a=0&id=13hG4raf47jZB9y2mwKh7Pa5ZjjpzGhYy
+#EXTINF:-1 group-title="2° Temporada", 2x8.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x8.mp4?a=0&id=1axi3YP7bdBw2U_lswGlk1QAQStE243jv
+#EXTINF:-1 group-title="2° Temporada", 2x9.mp4
+https://educa.eu.org/api/v1/redirectdownload/2x9.mp4?a=0&id=1LHzybkAvXNwd2twpPomrhM5qF-6k7BLr
+
+#PLAYLIST: 3° Temporada
+#EXTINF:-1 group-title="3° Temporada", 1.mp4
+https://educa.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1-AVzEFCPPQ-y3d-RdTzESk_HqIuKnuf-
+#EXTINF:-1 group-title="3° Temporada", 10.mp4
+https://educa.eu.org/api/v1/redirectdownload/10.mp4?a=0&id=1aSNNhZVRmQteZrjgnlEvXTGxYG3you80
+#EXTINF:-1 group-title="3° Temporada", 2.mp4
+https://educa.eu.org/api/v1/redirectdownload/2.mp4?a=0&id=1NDoff89QBQhuT2U1qrypsrR8sHWc-lye
+#EXTINF:-1 group-title="3° Temporada", 3.mp4
+https://educa.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1QQ0Q76Da21WPf6zSLcBLXl7mBK7QH21x
+#EXTINF:-1 group-title="3° Temporada", 4.mp4
+https://educa.eu.org/api/v1/redirectdownload/4.mp4?a=0&id=1zBBp4pPYDssNbCFJJhhkzUfJKUi7bC54
+#EXTINF:-1 group-title="3° Temporada", 5.mp4
+https://educa.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1tD5t3aDmtlYgp7k79un966PX0_fCij50
+#EXTINF:-1 group-title="3° Temporada", 6.mp4
+https://educa.eu.org/api/v1/redirectdownload/6.mp4?a=0&id=1TnnEFUl5MjQn2ruZoYts3MG-ivvN5E7Q
+#EXTINF:-1 group-title="3° Temporada", 7.mp4
+https://educa.eu.org/api/v1/redirectdownload/7.mp4?a=0&id=1B6AdmoV0X2C3hOK-zNjpdZc9t83yGqr1
+#EXTINF:-1 group-title="3° Temporada", 8.mp4
+https://educa.eu.org/api/v1/redirectdownload/8.mp4?a=0&id=1ytJHqFqs7nhRzOCFIDrKlTAGSt3XiVeR
+#EXTINF:-1 group-title="3° Temporada", 9.mp4
+https://educa.eu.org/api/v1/redirectdownload/9.mp4?a=0&id=1Fg0-bxPUOqKOne3kcHq3-TKLAV37mNoO

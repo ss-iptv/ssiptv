@@ -2,12 +2,12 @@
 #EXTENC: UTF-8
 #PLAYLIST: Criminologia - Ricardo Fernandes
 #EXTINF:0, Aula 01.mp4
-https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aula%2001.mp4?a=0&id=1v4RyYlwYXYSFe-H8dvWPfHgkGX4WE9h1
+https://educa.eu.org/api/v1/redirectdownload/Aula%2001.mp4?a=0&id=1v4RyYlwYXYSFe-H8dvWPfHgkGX4WE9h1
 #EXTINF:0, Aula 02.mp4
-https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aula%2002.mp4?a=0&id=1rT3UgYO0vfwBLd9F9Bh3euAvCdQcIYad
+https://educa.eu.org/api/v1/redirectdownload/Aula%2002.mp4?a=0&id=1rT3UgYO0vfwBLd9F9Bh3euAvCdQcIYad
 #EXTINF:0, Aula 03.mp4
-https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aula%2003.mp4?a=0&id=1LcxbXbhbQ0lCZ40rlNm8blhhj5epPcfJ
+https://educa.eu.org/api/v1/redirectdownload/Aula%2003.mp4?a=0&id=1LcxbXbhbQ0lCZ40rlNm8blhhj5epPcfJ
 #EXTINF:0, Aula 04.mp4
-https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aula%2004.mp4?a=0&id=1KeX0AhzpmZej9MEsqgTKNqoEkP4mQr9v
+https://educa.eu.org/api/v1/redirectdownload/Aula%2004.mp4?a=0&id=1KeX0AhzpmZej9MEsqgTKNqoEkP4mQr9v
 #EXTINF:0, Aula 05.mp4
-https://meu-drive.herokuapp.com/api/v1/redirectdownload/Aula%2005.mp4?a=0&id=1nSC1VGOHm5M3da_s-lAWrPq9u_oOgAl3
+https://educa.eu.org/api/v1/redirectdownload/Aula%2005.mp4?a=0&id=1nSC1VGOHm5M3da_s-lAWrPq9u_oOgAl3

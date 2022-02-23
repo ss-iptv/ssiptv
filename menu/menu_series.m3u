@@ -68,9 +68,9 @@ https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/dr_who/menu_dr_
 #EXTBG: #11609E
 https://raw.githubusercontent.com/ss-iptv/meu/main/ssiptv/series/chuck/chuck.m3u8
 
-#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Google - Teste
+#EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",Magia
 #EXTBG: #11609E
-https://raw.githubusercontent.com/ss-iptv/meu/main/hbo_max_fox_google_api_links.m3u8
+http://assistaiptvplay.com/get.php?username=vilmar123&password=vilmar321&type=m3u_plus
 
 #EXTINF:0 type="playlist" tvg-logo="https://img.icons8.com/ios/100/4a90e2/watch-tv.png",GitHub Free
 https://raw.githubusercontent.com/joomaycon/Listam3u/main/lista.m3u
