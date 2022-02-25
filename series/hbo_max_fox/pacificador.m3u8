@@ -2,14 +2,14 @@
 #EXTENC: UTF-8
 #PLAYLIST: 1° Temporada
 #EXTINF:0, 1.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1O0LWaLGVw__lPnfIbh6QCI5VtGQOwDF5
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.mp4?a=0&id=1O0LWaLGVw__lPnfIbh6QCI5VtGQOwDF5
 #EXTINF:0, 2.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.mp4?a=0&id=1rrWVLleYkEKXqtXhvSlT5QJH7qjzS7Ow
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.mp4?a=0&id=1rrWVLleYkEKXqtXhvSlT5QJH7qjzS7Ow
 #EXTINF:0, 3.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1-xse3JyI7PmN2w27heh2Ls1I0xHdhf4u
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.mp4?a=0&id=1-xse3JyI7PmN2w27heh2Ls1I0xHdhf4u
 #EXTINF:0, 4.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.mp4?a=0&id=1y3WRbUnRUcie_uczz3KNUkmCkSj_6lZ2
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.mp4?a=0&id=1y3WRbUnRUcie_uczz3KNUkmCkSj_6lZ2
 #EXTINF:0, 5.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1OGPyaSdcE0Mp3f6_6D1oJV0Z77wRFC81
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1OGPyaSdcE0Mp3f6_6D1oJV0Z77wRFC81
 #EXTINF:0, 5.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1ldqyB4j-zomm1J8PSd-O0e8Y4rNLYfFd
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.mp4?a=0&id=1ldqyB4j-zomm1J8PSd-O0e8Y4rNLYfFd

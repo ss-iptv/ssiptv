@@ -3,15 +3,15 @@
 #PLAYLIST: ! Lançamentos Fabiana
 
 #EXTINF:0 group-title="Filmes | Fabiana", Diario de 1 Louca
-https://educa.eu.org/api/v1/redirectdownload/teu_cu.mp4?a=0&id=1jnoZR8hHdejvDqvc5xhG6wYX9_jRUjOL
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teu_cu.mp4?a=0&id=1jnoZR8hHdejvDqvc5xhG6wYX9_jRUjOL
 #EXTINF:0  type="video" group-title="Filmes | Fabiana", [G]O Vendedor de Sonhos
 https://www.googleapis.com/drive/v3/files/1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Fabiana", O Vendedor de Sonhos
-https://educa.eu.org/api/v1/redirectdownload/O%20vendedor%20de%20sonhos.mp4?a=0&id=1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i
+https://m3u.araujo.eu.org/api/v1/redirectdownload/O%20vendedor%20de%20sonhos.mp4?a=0&id=1UIPwIb87yT7C0ZlJpLqIbcricfIBuO3i
 #EXTINF:0 group-title="Filmes | Fabiana",Olhar de Anjo
-https://educa.eu.org/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
+https://m3u.araujo.eu.org/api/v1/redirectdownload/OLHAR%20DE%20ANJO%20DUBLADO~1.mp4?a=0&id=1HPftpE1elF_eVujaISwvukpC3TzORFqY
 #EXTINF:0 group-title="Filmes | Fabiana", Encontrando Forestier Completo Dublado.mp4
-https://educa.eu.org/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Encontrando%20Forestier%20Completo%20Dublado.mp4?a=0&id=1ptUzF-29VdAd16VmNe8fppNt-jGuDTaK
 #EXTINF:0 group-title="Filmes | Fabiana", O Último Samurai
 https://meu-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Samurai%20%5B2003%5D%20-%20Dublado%20).mp4?a=0&id=1ju6jA-Q1PX1wW3G6uKP2sPLP4096zwPf
 
@@ -19,15 +19,15 @@ https://meu-drive.herokuapp.com/api/v1/redirectdownload/O%20%C3%9Altimo%20Samura
 #PLAYLIST: ! Lançamentos 2021/2022
 
 #EXTINF:0 group-title="Filmes | Lançamentos", A Era do Gelo - As Aventuras de Buck
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=15ysGTTOEHt4YG3nMmLCB7oCTF6p-u9DR
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=15ysGTTOEHt4YG3nMmLCB7oCTF6p-u9DR
 #EXTINF:0 group-title="Filmes | Lançamentos", Cruella.2021
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=11PYi30jw_GnmzjVG8M2kmb50GjjbV8k1
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=11PYi30jw_GnmzjVG8M2kmb50GjjbV8k1
 #EXTINF:0 group-title="Filmes | Lançamentos", Os Simpsons Em Plusniversário (Curta) [2021]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1NpkCD5c-n83lAIjiTK4w9ZHGOWPrnTuU
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1NpkCD5c-n83lAIjiTK4w9ZHGOWPrnTuU
 #EXTINF:0 group-title="Filmes | Lançamentos", Um Lugar Silencioso II
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1-A462ylTulez7DHVXJKRfIi1mv3x5ajp
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1-A462ylTulez7DHVXJKRfIi1mv3x5ajp
 #EXTINF:0 group-title="Filmes | Lançamentos", Trainspotting
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=17OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=17OPrFVtS_0xZmcKPDu92Su9B19X4ws1e
 
 #EXTINF:0 group-title="Filmes | Lançamentos", Invasão 2017
 https://libdester.up.railway.app/api/v1/redirectdownload/Attraction%2520%255B2017%255D%2520-%2520Legendado%2520%2528SeriesZoiudo%2529.mp4?a=o6pw20syw347wsxa32p23okci92uhl0ze960koo0hr6264zw0d&id=1ZC-oXhsjIiKBgB-0_wYjbGBy8lBByGSl
@@ -35,234 +35,234 @@ https://libdester.up.railway.app/api/v1/redirectdownload/Attraction%2520%255B201
 https://libdester.up.railway.app/api/v1/redirectdownload/Attraction%25202%2520-%2520A%2520Invas%25C3%25A3o
 
 #EXTINF:0 group-title="Filmes | Lançamentos", 2 Mais 2 [2012]
-https://educa.eu.org/api/v1/redirectdownload/2%20Mais%202%20%5B2012%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1uAnRxriKJb0V9NnRxqBOopJcuGXZGE5K
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2%20Mais%202%20%5B2012%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1uAnRxriKJb0V9NnRxqBOopJcuGXZGE5K
 #EXTINF:0 group-title="Filmes | Lançamentos", Jack.O.Estripador.[2021]
-https://educa.eu.org/api/v1/redirectdownload/Jack.O.Estripador.%5B2021%5D?a=0&id=1r7UhFr8JH--4ztBoyovtbLKqvWkmehIW
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Jack.O.Estripador.%5B2021%5D?a=0&id=1r7UhFr8JH--4ztBoyovtbLKqvWkmehIW
 #EXTINF:0 group-title="Filmes | Lançamentos", Viajantes - Instinto e Desejo 2021
-https://educa.eu.org/api/v1/redirectdownload/Viajantes%20-%20Instinto%20e%20Desejo%202021.mkv?a=0&id=1iludYhAiN1SQEYT7NHg07lVlYGVJ93ag
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Viajantes%20-%20Instinto%20e%20Desejo%202021.mkv?a=0&id=1iludYhAiN1SQEYT7NHg07lVlYGVJ93ag
 
 #EXTINF:0 group-title="Filmes | Lançamentos", 007 - Sem Tempo Para Morrer [2021]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1-ZDENB1jgh7FDzD3KkNVVFkOlmbZoDwr
 #EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
 #EXTINF:0 group-title="Filmes | Lançamentos", Pânico 5 [2022]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1vnvVPfG2Un8-kW-Av1iYRSXZ7WQU9yqy
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1vnvVPfG2Un8-kW-Av1iYRSXZ7WQU9yqy
 #EXTINF:0 group-title="Filmes | Lançamentos", Ray Donovan - O Filme [2022]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1gK_fOqy0LCoEEPF0xptlVLG1GUnP9db0
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1gK_fOqy0LCoEEPF0xptlVLG1GUnP9db0
 #EXTINF:0 group-title="Filmes | Lançamentos", A Filha Do Rei [2022]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1GFhs1v7TOVMXIxTRLxgfnDlOzgw0DC59
 #EXTINF:0 group-title="Filmes | Lançamentos", Chernobyl - O Filme 2021 1080p BluRay DUAL.mkv
-https://educa.eu.org/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Chernobyl%20-%20O%20Filme%202021%201080p%20BluRay%20DUAL.mkv?a=0&id=1-Sbkbafu-cvyQmFwI4kpaSM_uV4WYhQG
 #EXTINF:0 group-title="Filmes | Lançamentos", Clifford - O Gigante Cão Vermelho [2021]
-https://educa.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1DgWAXqtwmy-mh1hQUM7W0egJAuQYohh8
+https://m3u.araujo.eu.org/api/v1/redirectdownload/teucu.mp4?a=0&id=1DgWAXqtwmy-mh1hQUM7W0egJAuQYohh8
 #EXTINF:0 group-title="Filmes | Lançamentos", Matrix 4 - Resurrections [2021] - Dublado
-https://educa.eu.org/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Matrix%204%20-%20Resurrections%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1yDhTSBeXvYupIXTSYSZA5rsPkHfCjzjm
 #EXTINF:0 group-title="Filmes | Lançamentos", Hotel.Transilvânia.4.2022.720p.DUB.mp4
-https://educa.eu.org/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Hotel.Transilv%C3%A2nia.4.2022.720p.DUB.mp4?a=0&id=1Z4LxK6_HkqSxDGVMX3lMRUYhJ8TFt9fl
 #EXTINF:0 group-title="Filmes | Lançamentos", Eternos [2021] - Dublado
-https://educa.eu.org/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Eternos%20%5B2021%5D%20-%20Dublado%20(SeriesZoiudo).mp4?a=0&id=1rh7XlsHrV14wWqSUZXCToSc47kALhO-B
 #EXTINF:0 group-title="Filmes | Lançamentos", O Apanhador de Sonhos 2021
-https://educa.eu.org/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
+https://m3u.araujo.eu.org/api/v1/redirectdownload/O%20Apanhador%20de%20Sonhos%202021%20WEB-DL%201080p%20DUAL%202.0.mkv?a=0&id=1MkdCYZ2SO7QWkvmG1nqoW01oX5yoK5ph
 #EXTINF:0 group-title="Filmes | Lançamentos", Mãe x Androides 2021
-https://educa.eu.org/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
+https://m3u.araujo.eu.org/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1dPGsw2gCfQWIGLF-BP6ZtVYTTNq_t38r
 #EXTINF:0 group-title="Filmes | Lançamentos", Ghostbusters.Afterlife.2021
-https://educa.eu.org/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Ghostbusters.Afterlife.2021.1080p.WEBRip.Dublado.mkv?a=0&id=1o7DNTeoEG4is1U4di5yIviGoWbki_Vi_
 #EXTINF:0 group-title="Filmes | Lançamentos", Dois + Dois 2021
-https://educa.eu.org/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Dois%20+%20Dois%202021%20WEB-DL%201080p%20NACIONAL%205.1.mkv?a=0&id=11KgpqNYwE9D0T9Pl29fh_g5HRMLg3IPh
 #EXTINF:0 group-title="Filmes | Lançamentos", Getúlio (2014) 720p.mp4
-https://educa.eu.org/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
+https://m3u.araujo.eu.org/api/v1/redirectdownload/ss-iptv.mp4?a=0&id=1UbM_mLEs_WiZehBiB_lWkj2M29-_EP7Q
 #EXTINF:0 group-title="Filmes | Lançamentos", Pokemon.Detetive.Pikachu
-https://educa.eu.org/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
+https://m3u.araujo.eu.org/api/v1/redirectdownload/maquina%20do%20zaca_Pokemon.Detetive.Pikachu.2019.1080p.BluRay.-DUBLADO.mp4?a=0&id=1-G4fgidUdfp-Z-RejoSbABBETGVI-VVy
 #EXTINF:0 group-title="Filmes | Lançamentos", Harry Potter 20th.mp4
-https://educa.eu.org/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Harry%20Potter%2020th.mp4?a=0&id=1jd3cJmEhGhnJLG0sGqTe9XpnkHHUq1kp
 #EXTINF:0 group-title="Filmes | Lançamentos", S.P.P.C.2020
 https://www.googleapis.com/drive/v3/files/1abMZCubB8JaCu7Fx_mmGnBSXvVMd11u8?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lançamentos", S.P.P.C.2021
 https://www.googleapis.com/drive/v3/files/1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT?alt=media&key=AIzaSyBI3mylsmCiqxKwse1AnfixasdBTSL2FOE
 #EXTINF:0 group-title="Filmes | Lançamentos", Venom - Tempo de Carnificina (2021).mp4
-https://educa.eu.org/api/v1/redirectdownload/Venom%20-%20Tempo%20de%20Carnificina%20(2021).mp4?a=0&id=1NY9XNBImt9gsF8mP0e-8PDsnWbiwO_w7
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Venom%20-%20Tempo%20de%20Carnificina%20(2021).mp4?a=0&id=1NY9XNBImt9gsF8mP0e-8PDsnWbiwO_w7
 #EXTINF:0 group-title="Filmes | Lançamentos", Finch [L].mp4
-https://educa.eu.org/api/v1/redirectdownload/Finch%20%5BL%5D.mp4?a=0&id=13SYiVauH6BKz_YQM6z8phBTqVtL4HWSH
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Finch%20%5BL%5D.mp4?a=0&id=13SYiVauH6BKz_YQM6z8phBTqVtL4HWSH
 #EXTINF:0 group-title="Filmes | Lançamentos", Finch.mp4
-https://educa.eu.org/api/v1/redirectdownload/Finch.mp4?a=0&id=13TG2NBIAXqi3jiVp-WH-x6WD4wipXhx5
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Finch.mp4?a=0&id=13TG2NBIAXqi3jiVp-WH-x6WD4wipXhx5
 #EXTINF:0 group-title="Filmes | Lançamentos", A Glitch in the Matrix [L].mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Glitch%20in%20the%20Matrix%20%5BL%5D.mp4?a=0&id=13QkgmOHTns2QSNPcnuFTFa1SuCPvlyDq
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Glitch%20in%20the%20Matrix%20%5BL%5D.mp4?a=0&id=13QkgmOHTns2QSNPcnuFTFa1SuCPvlyDq
 #EXTINF:0 group-title="Filmes | Lançamentos", Animatrix.mp4
-https://educa.eu.org/api/v1/redirectdownload/Animatrix.mp4?a=0&id=1El0J6A56Nnn0nrWcGXnwugJYR9HNfvbT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Animatrix.mp4?a=0&id=1El0J6A56Nnn0nrWcGXnwugJYR9HNfvbT
 #EXTINF:0 group-title="Filmes | Lançamentos", Apex.Dublado.1080p.2021.mkv
-https://educa.eu.org/api/v1/redirectdownload/Apex.Dublado.1080p.2021.mkv?a=0&id=1JrK483XT-ILyhr_wfb8qfHIjFKqFKWe0
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Apex.Dublado.1080p.2021.mkv?a=0&id=1JrK483XT-ILyhr_wfb8qfHIjFKqFKWe0
 #EXTINF:0 group-title="Filmes | Lançamentos", Efeito.Flashback.Dublado.1080p.2021.mkv
-https://educa.eu.org/api/v1/redirectdownload/Efeito.Flashback.Dublado.1080p.2021.mkv?a=0&id=1dPC5-RpjSUqJBQaexzVgkSFNdreubI5Q
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Efeito.Flashback.Dublado.1080p.2021.mkv?a=0&id=1dPC5-RpjSUqJBQaexzVgkSFNdreubI5Q
 #EXTINF:0 group-title="Filmes | Lançamentos", Encanto.2021
-https://educa.eu.org/api/v1/redirectdownload/Encanto.2021?a=0&id=1yi3pWxKXCWHvmXJzl5h4O7bxTQuWQHd9
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Encanto.2021?a=0&id=1yi3pWxKXCWHvmXJzl5h4O7bxTQuWQHd9
 #EXTINF:0 group-title="Filmes | Lançamentos", Every.Breath.You.Take.Dublado.1080p.2021.mkv
-https://educa.eu.org/api/v1/redirectdownload/Every.Breath.You.Take.Dublado.1080p.2021.mkv?a=0&id=1lpKH1tFxL0G0P62uOMXsicOxDdrCyNz9
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Every.Breath.You.Take.Dublado.1080p.2021.mkv?a=0&id=1lpKH1tFxL0G0P62uOMXsicOxDdrCyNz9
 #EXTINF:0 group-title="Filmes | Lançamentos", South Park Pós Covid.2021
-https://educa.eu.org/api/v1/redirectdownload/South%20pa?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/South%20pa?a=0&id=1CeJXLNcqc0sSJWz2-XC5UsyNU9fVL0tT
 #EXTINF:0 group-title="Filmes | Lançamentos", #Nudes
 https://drive.aprovado.workers.dev/1:/Filmes/Filmes/%2523NUDES.mp4
 
 #EXTINF:0 group-title="Filmes | Lançamentos", Um Por Todos 2020 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Um%20Por%20Todos%202020%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-RpiccViJgnWKhzHUy6yGxvVL8sh32eb
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Um%20Por%20Todos%202020%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-RpiccViJgnWKhzHUy6yGxvVL8sh32eb
 #EXTINF:0 group-title="Filmes | Lançamentos", A Sonata Maldita 2022 1080p BluRay DUAL.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20A%20Sonata%20Maldita%202022%201080p%20BluRay%20DUAL.mkv?a=0&id=1-zwuVMS9o3kxJY88ocOiopRKVfDWGSOs
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20A%20Sonata%20Maldita%202022%201080p%20BluRay%20DUAL.mkv?a=0&id=1-zwuVMS9o3kxJY88ocOiopRKVfDWGSOs
 #EXTINF:0 group-title="Filmes | Lançamentos", Reféns 2021 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Ref%C3%A9ns%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-N1uKBdIWWwgUAgV4jDWmNc3hatEVFIJ
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Ref%C3%A9ns%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-N1uKBdIWWwgUAgV4jDWmNc3hatEVFIJ
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Ação", John Wick 1.mp4
-https://educa.eu.org/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
+https://m3u.araujo.eu.org/api/v1/redirectdownload/John%20Wick%201.mp4?a=0&id=1Px8ZWvTOieusHe787IMKQqCy0rA9k1mx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Ação", John Wick 2.mp4
-https://educa.eu.org/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1ZlWuKjJSqvAdLSIxpDJ_GsbDKbsui3E9
+https://m3u.araujo.eu.org/api/v1/redirectdownload/John%20Wick%202.mp4?a=0&id=1ZlWuKjJSqvAdLSIxpDJ_GsbDKbsui3E9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Ação", John Wick 3.mp4
-https://educa.eu.org/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
+https://m3u.araujo.eu.org/api/v1/redirectdownload/John%20Wick%203.mp4?a=0&id=1l8p3_yCDBAQnt8nQlWClV21k_io4_ZZI
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", As Donas do Pedaço 2021 1080p WEB-DL DUAL.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20As%20Donas%20do%20Peda%C3%A7o%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1NImPf7TRB9cVuYbDDlU6x80Afu-2kAmC
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20As%20Donas%20do%20Peda%C3%A7o%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1NImPf7TRB9cVuYbDDlU6x80Afu-2kAmC
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Asteroid.2021.720p.WEBRip.Legendado.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Asteroid.2021.720p.WEBRip.Legendado.mkv?a=0&id=1-93kwnu3GtIZh0zmvItFLqqzmIH72xHR
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Asteroid.2021.720p.WEBRip.Legendado.mkv?a=0&id=1-93kwnu3GtIZh0zmvItFLqqzmIH72xHR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Boogie 2021 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Boogie%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-1PT8lZm_CbqJelK1OTgQv97Ld4FQ0DW
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Boogie%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-1PT8lZm_CbqJelK1OTgQv97Ld4FQ0DW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", David e os Duendes de Natal 2021 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20David%20e%20os%20Duendes%20de%20Natal%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1LD3tYDYcI0TPCJt5BGcN48gtpeT6UISk
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20David%20e%20os%20Duendes%20de%20Natal%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1LD3tYDYcI0TPCJt5BGcN48gtpeT6UISk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Dois 2021 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Dois%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=11BAmW5CvQJYP5atsbowZ8BE55joknD0F
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Dois%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=11BAmW5CvQJYP5atsbowZ8BE55joknD0F
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Encontros 2021 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Encontros%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=10qpbzDfm08ox90SwF5uzFPXbONUaDtRe
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Encontros%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=10qpbzDfm08ox90SwF5uzFPXbONUaDtRe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Home.2021.1080p.WEBRip.mp4
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Home.2021.1080p.WEBRip.mp4?a=0&id=1-OfQQ1ks1XzEGR3DFObnF7Uba3pyX9tS
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Home.2021.1080p.WEBRip.mp4?a=0&id=1-OfQQ1ks1XzEGR3DFObnF7Uba3pyX9tS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Imperdoavel 2021 1080p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Imperdoavel%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-Y_3iSxoBO6FpNvyG3D1M6PIFTAOEAwh
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Imperdoavel%202021%201080p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1-Y_3iSxoBO6FpNvyG3D1M6PIFTAOEAwh
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Limite do Mundo 2021 1080p BluRay DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Limite%20do%20Mundo%202021%201080p%20BluRay%20DUAL%205.1.mkv?a=0&id=1s915BzWhEhxcmBjg0ISM4wjSkxugcJg9
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Limite%20do%20Mundo%202021%201080p%20BluRay%20DUAL%205.1.mkv?a=0&id=1s915BzWhEhxcmBjg0ISM4wjSkxugcJg9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Maledicto.2019.1080p.WEBRip.Dublado.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Maledicto.2019.1080p.WEBRip.Dublado.mkv?a=0&id=1-M61QCcieqjzKByNKuPurMjW2COe05Tk
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Maledicto.2019.1080p.WEBRip.Dublado.mkv?a=0&id=1-M61QCcieqjzKByNKuPurMjW2COe05Tk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Night.Night.2021.1080p.WEBRip.Legendado.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Night.Night.2021.1080p.WEBRip.Legendado.mkv?a=0&id=1-9xgpHDHmwgGUAw5RBUyxeNozd16JsBv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20Night.Night.2021.1080p.WEBRip.Legendado.mkv?a=0&id=1-9xgpHDHmwgGUAw5RBUyxeNozd16JsBv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", O Mundo Mágico de Rufus 2021 1080p WEB-DL DUAL.mkv
-https://educa.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20O%20Mundo%20M%C3%A1gico%20de%20Rufus%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1kqoYQJJUTi1AXgQUPTyeAJAi6hugblIi
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BBAIXARVIAMEGA.COM%5D%20O%20Mundo%20M%C3%A1gico%20de%20Rufus%202021%201080p%20WEB-DL%20DUAL.mkv?a=0&id=1kqoYQJJUTi1AXgQUPTyeAJAi6hugblIi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Death.Valley.2021.1080p.WEBRip.x264.mp4
-https://educa.eu.org/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Death.Valley.2021.1080p.WEBRip.x264.mp4?a=0&id=1-jKqDGvjB7qBInQsFNGoVBUbKhTXVQ7E
+https://m3u.araujo.eu.org/api/v1/redirectdownload/%5BPIPOCAMOZ.COM%5D%20Death.Valley.2021.1080p.WEBRip.x264.mp4?a=0&id=1-jKqDGvjB7qBInQsFNGoVBUbKhTXVQ7E
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Duna 2021 720p WEB-DL DUAL 5.1.mkv
-https://educa.eu.org/api/v1/redirectdownload/C%C3%B3pia%20de%20Duna%202021%20720p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1hqlq3MDVkkQ7zzJobH7ENkBHZX2bs9tH
+https://m3u.araujo.eu.org/api/v1/redirectdownload/C%C3%B3pia%20de%20Duna%202021%20720p%20WEB-DL%20DUAL%205.1.mkv?a=0&id=1hqlq3MDVkkQ7zzJobH7ENkBHZX2bs9tH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", L1G4.D4.JUSTIC4. DUAL AUDIO 720P. WWW.BAIXARVIAMEGA.COM-DUAL.mkv
-https://educa.eu.org/api/v1/redirectdownload/L1G4.D4.JUSTIC4.%20DUAL%20AUDIO%20720P.%20WWW.BAIXARVIAMEGA.COM-DUAL.mkv?a=0&id=1EZb3AUsYHoVPDqXXB-mpwm-EUhkcVwce
+https://m3u.araujo.eu.org/api/v1/redirectdownload/L1G4.D4.JUSTIC4.%20DUAL%20AUDIO%20720P.%20WWW.BAIXARVIAMEGA.COM-DUAL.mkv?a=0&id=1EZb3AUsYHoVPDqXXB-mpwm-EUhkcVwce
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Lançamentos", Diário de um Banana (2021).mp4
-https://educa.eu.org/api/v1/redirectdownload/maquina%20do%20zaca_Di%C3%A1rio%20de%20um%20Banana%20(2021).mp4?a=0&id=1fH7lp6SXPegSXMMSxAmfWB-ox2pEk8Lh
+https://m3u.araujo.eu.org/api/v1/redirectdownload/maquina%20do%20zaca_Di%C3%A1rio%20de%20um%20Banana%20(2021).mp4?a=0&id=1fH7lp6SXPegSXMMSxAmfWB-ox2pEk8Lh
 
 
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", #REALITYHIGH.mp4
-https://educa.eu.org/api/v1/redirectdownload/#REALITYHIGH.mp4?a=0&id=1Hg8hxuF5awNXpvnEwJJQvl2T_32TWZwy
+https://m3u.araujo.eu.org/api/v1/redirectdownload/#REALITYHIGH.mp4?a=0&id=1Hg8hxuF5awNXpvnEwJJQvl2T_32TWZwy
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 10 Anos de Pura Amizade.mp4
-https://educa.eu.org/api/v1/redirectdownload/10%20Anos%20de%20Pura%20Amizade.mp4?a=0&id=1I8W0zHhM7aucddWgAyXwOwx4HaLnTJes
+https://m3u.araujo.eu.org/api/v1/redirectdownload/10%20Anos%20de%20Pura%20Amizade.mp4?a=0&id=1I8W0zHhM7aucddWgAyXwOwx4HaLnTJes
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 17 Outra Vez.mp4
-https://educa.eu.org/api/v1/redirectdownload/17%20Outra%20Vez.mp4?a=0&id=1IIR735nyORohopuxPg1hRU20tnfEIwxk
+https://m3u.araujo.eu.org/api/v1/redirectdownload/17%20Outra%20Vez.mp4?a=0&id=1IIR735nyORohopuxPg1hRU20tnfEIwxk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 2 Minutos de Fama.mp4
-https://educa.eu.org/api/v1/redirectdownload/2%20Minutos%20de%20Fama.mp4?a=0&id=1ITpMhgSscrzCM6QLMl-kXTpQhT3d_0CR
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2%20Minutos%20de%20Fama.mp4?a=0&id=1ITpMhgSscrzCM6QLMl-kXTpQhT3d_0CR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 20 Anos Mais Jovem.mp4
-https://educa.eu.org/api/v1/redirectdownload/20%20Anos%20Mais%20Jovem.mp4?a=0&id=1IYiTYzXon1P7iI-GskOkZKX4WHiTP7jb
+https://m3u.araujo.eu.org/api/v1/redirectdownload/20%20Anos%20Mais%20Jovem.mp4?a=0&id=1IYiTYzXon1P7iI-GskOkZKX4WHiTP7jb
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 3 Turcos e um Bebê.mp4
-https://educa.eu.org/api/v1/redirectdownload/3%20Turcos%20e%20um%20Beb%C3%AA.mp4?a=0&id=1IalT2IDVwFaNbPIfcGs4RHT6MJkgxgKO
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3%20Turcos%20e%20um%20Beb%C3%AA.mp4?a=0&id=1IalT2IDVwFaNbPIfcGs4RHT6MJkgxgKO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 4 Latas.mp4
-https://educa.eu.org/api/v1/redirectdownload/4%20Latas.mp4?a=0&id=1Ih5NZ30yFFcCzxEGNJzg2v4P6w6MoR0X
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4%20Latas.mp4?a=0&id=1Ih5NZ30yFFcCzxEGNJzg2v4P6w6MoR0X
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", 8 Mulheres e 1 Segredo.mp4
-https://educa.eu.org/api/v1/redirectdownload/8%20Mulheres%20e%201%20Segredo.mp4?a=0&id=1IoPgOWOBfPurv86IwactwQty1AcchwcR
+https://m3u.araujo.eu.org/api/v1/redirectdownload/8%20Mulheres%20e%201%20Segredo.mp4?a=0&id=1IoPgOWOBfPurv86IwactwQty1AcchwcR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Agenda Secreta do Meu Namorado.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Agenda%20Secreta%20do%20Meu%20Namorado.mp4?a=0&id=1IpqsCI8sSiAvmeik6cGCQQtjkSW2ljQD
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Agenda%20Secreta%20do%20Meu%20Namorado.mp4?a=0&id=1IpqsCI8sSiAvmeik6cGCQQtjkSW2ljQD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Barraca do Beijo 2.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Barraca%20do%20Beijo%202.mp4?a=0&id=1J0UKXJ1jJ2kfj3NHw9DcUtciGIwvjkWN
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Barraca%20do%20Beijo%202.mp4?a=0&id=1J0UKXJ1jJ2kfj3NHw9DcUtciGIwvjkWN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Cara do Pai.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Cara%20do%20Pai.mp4?a=0&id=1J2YEfZzGQPln7ZWRoUW9fsILMHTyW9gY
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Cara%20do%20Pai.mp4?a=0&id=1J2YEfZzGQPln7ZWRoUW9fsILMHTyW9gY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Casa Caiu Um Cassino na Vizinhanca.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Casa%20Caiu%20Um%20Cassino%20na%20Vizinhanca.mp4?a=0&id=1J30RTb8VzdZzU1xGmV_hAzi9MplEhAlL
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Casa%20Caiu%20Um%20Cassino%20na%20Vizinhanca.mp4?a=0&id=1J30RTb8VzdZzU1xGmV_hAzi9MplEhAlL
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Chefa.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Chefa.mp4?a=0&id=1J4JjC20hmu_yTGe1FYOkCkluwFnBcLup
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Chefa.mp4?a=0&id=1J4JjC20hmu_yTGe1FYOkCkluwFnBcLup
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Despedida (2019).mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Despedida%20(2019).mp4?a=0&id=1JUCq9HWChfl594m-5AwdzV472d5NVYqO
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Despedida%20(2019).mp4?a=0&id=1JUCq9HWChfl594m-5AwdzV472d5NVYqO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Escolha Perfeita 2.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Escolha%20Perfeita%202.mp4?a=0&id=1JkIG_esNYOs6qyek7YFnewo9wlqU0wng
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Escolha%20Perfeita%202.mp4?a=0&id=1JkIG_esNYOs6qyek7YFnewo9wlqU0wng
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Extraordinária Jornada do Faquir.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Extraordin%C3%A1ria%20Jornada%20do%20Faquir.mp4?a=0&id=1JtGTLxjpvfeoR-rtlHwL0IfrWsBkcEPV
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Extraordin%C3%A1ria%20Jornada%20do%20Faquir.mp4?a=0&id=1JtGTLxjpvfeoR-rtlHwL0IfrWsBkcEPV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Filha do Presidente.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Filha%20do%20Presidente.mp4?a=0&id=1KAgfVPXQkR8ebmP2jj0sHcsKU_oZVGb0
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Filha%20do%20Presidente.mp4?a=0&id=1KAgfVPXQkR8ebmP2jj0sHcsKU_oZVGb0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Fogueira das Vaidades.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Fogueira%20das%20Vaidades.mp4?a=0&id=1KBFXnvmF4s9n8xovasLnGBn5ZlMTxLCF
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Fogueira%20das%20Vaidades.mp4?a=0&id=1KBFXnvmF4s9n8xovasLnGBn5ZlMTxLCF
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Fortuna.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Fortuna.mp4?a=0&id=1KFWLPL_rCFzvMIoEjkI5DZkwj_pgnjbT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Fortuna.mp4?a=0&id=1KFWLPL_rCFzvMIoEjkI5DZkwj_pgnjbT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Galeria dos Corações Partidos.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Galeria%20dos%20Cora%C3%A7%C3%B5es%20Partidos.mp4?a=0&id=1KJb-rfcQHvtH1x1Bz5pUfJ4M8EcwQy4-
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Galeria%20dos%20Cora%C3%A7%C3%B5es%20Partidos.mp4?a=0&id=1KJb-rfcQHvtH1x1Bz5pUfJ4M8EcwQy4-
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Grande Aposta.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Grande%20Aposta.mp4?a=0&id=1KJdbNrRG_iywJnKeVPfdBtuUGTjfisM_
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Grande%20Aposta.mp4?a=0&id=1KJdbNrRG_iywJnKeVPfdBtuUGTjfisM_
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Grande Luta.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Grande%20Luta.mp4?a=0&id=1KbVLRUG73QXYxLPb0HME_plPIvjyvyC3
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Grande%20Luta.mp4?a=0&id=1KbVLRUG73QXYxLPb0HME_plPIvjyvyC3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Guerra dos Roses.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Guerra%20dos%20Roses.mp4?a=0&id=1KdnxA2ohwwTaUz6ElyjAph3jS80-gqz3
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Guerra%20dos%20Roses.mp4?a=0&id=1KdnxA2ohwwTaUz6ElyjAph3jS80-gqz3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Hora da Virada.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Hora%20da%20Virada.mp4?a=0&id=1KpSPJJJZ8BA3SNBvUteV2NEFq6hzcV1C
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Hora%20da%20Virada.mp4?a=0&id=1KpSPJJJZ8BA3SNBvUteV2NEFq6hzcV1C
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Hora do Rush 2.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Hora%20do%20Rush%202.mp4?a=0&id=1Kv0BZf7sp24sP7b9DQ1QjOtki0e9YsPr
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Hora%20do%20Rush%202.mp4?a=0&id=1Kv0BZf7sp24sP7b9DQ1QjOtki0e9YsPr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Hora do Rush.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Hora%20do%20Rush.mp4?a=0&id=1KuWG0TCAOqKHdbfzREhQeXD_wjUQITql
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Hora%20do%20Rush.mp4?a=0&id=1KuWG0TCAOqKHdbfzREhQeXD_wjUQITql
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Lenda da Befana.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Lenda%20da%20Befana.mp4?a=0&id=1L59rEbpilB_9_MuO84Xmb_vEV_txK7ia
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Lenda%20da%20Befana.mp4?a=0&id=1L59rEbpilB_9_MuO84Xmb_vEV_txK7ia
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Mentira.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Mentira.mp4?a=0&id=1LGJslNKstmheX-diqk0K4MMQsjPJ9pSz
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Mentira.mp4?a=0&id=1LGJslNKstmheX-diqk0K4MMQsjPJ9pSz
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Namorada do Meu Irmão.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Namorada%20do%20Meu%20Irm%C3%A3o.mp4?a=0&id=1LoUqDCB3NCrn9J2WAyAaBTp-z4Jk7Qs7
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Namorada%20do%20Meu%20Irm%C3%A3o.mp4?a=0&id=1LoUqDCB3NCrn9J2WAyAaBTp-z4Jk7Qs7
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Odisseia dos Tontos.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Odisseia%20dos%20Tontos.mp4?a=0&id=1M1LeATHFOeQFJGcIoK00tIt7Rd6J5i71
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Odisseia%20dos%20Tontos.mp4?a=0&id=1M1LeATHFOeQFJGcIoK00tIt7Rd6J5i71
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Pata de Um Milhão de Dólares.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Pata%20de%20Um%20Milh%C3%A3o%20de%20D%C3%B3lares.mp4?a=0&id=1MAhsyjyux0TEEBftTjSQKMqzoWkX5UK1
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Pata%20de%20Um%20Milh%C3%A3o%20de%20D%C3%B3lares.mp4?a=0&id=1MAhsyjyux0TEEBftTjSQKMqzoWkX5UK1
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Pequena Suíça.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Pequena%20Su%C3%AD%C3%A7a.mp4?a=0&id=1MIuyw2JGQbwhtafV3XceUCVFNJyID6Fg
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Pequena%20Su%C3%AD%C3%A7a.mp4?a=0&id=1MIuyw2JGQbwhtafV3XceUCVFNJyID6Fg
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Proposta.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Proposta.mp4?a=0&id=1MKOslXtNupAxbO1snQmM8vBbKPuOpFKY
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Proposta.mp4?a=0&id=1MKOslXtNupAxbO1snQmM8vBbKPuOpFKY
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Roda da Fortuna.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Roda%20da%20Fortuna.mp4?a=0&id=1MY6Y0n3bIwxKOIWGHYZl-sgfmp5iC6eU
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Roda%20da%20Fortuna.mp4?a=0&id=1MY6Y0n3bIwxKOIWGHYZl-sgfmp5iC6eU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Sua Parte Fragil.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Sua%20Parte%20Fragil.mp4?a=0&id=1MiDvPuyThi756mowUweU1L2UtRndSttf
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Sua%20Parte%20Fragil.mp4?a=0&id=1MiDvPuyThi756mowUweU1L2UtRndSttf
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Vida Secreta de Walter Mitty.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Vida%20Secreta%20de%20Walter%20Mitty.mp4?a=0&id=1MryytselO-J1M4OqBlLpUqLAB9AL4I5k
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Vida%20Secreta%20de%20Walter%20Mitty.mp4?a=0&id=1MryytselO-J1M4OqBlLpUqLAB9AL4I5k
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A Volta do Todo Poderoso.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20Volta%20do%20Todo%20Poderoso.mp4?a=0&id=1N46OCzYIpxHEJ8kbzQXMHqwBsoe2Q0k6
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20Volta%20do%20Todo%20Poderoso.mp4?a=0&id=1N46OCzYIpxHEJ8kbzQXMHqwBsoe2Q0k6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A �sltima Gargalhada.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20%EF%BF%BDsltima%20Gargalhada.mp4?a=0&id=1N7UhLfqp7icsbwLO2dACc83AK4jsyLEd
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20%EF%BF%BDsltima%20Gargalhada.mp4?a=0&id=1N7UhLfqp7icsbwLO2dACc83AK4jsyLEd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", A �sltima Ressaca do Ano.mp4
-https://educa.eu.org/api/v1/redirectdownload/A%20%EF%BF%BDsltima%20Ressaca%20do%20Ano.mp4?a=0&id=1ND5cM2xDg9iNLf13fxxQBCbvGJQHFlSd
+https://m3u.araujo.eu.org/api/v1/redirectdownload/A%20%EF%BF%BDsltima%20Ressaca%20do%20Ano.mp4?a=0&id=1ND5cM2xDg9iNLf13fxxQBCbvGJQHFlSd
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", AA do Amor.mp4
-https://educa.eu.org/api/v1/redirectdownload/AA%20do%20Amor.mp4?a=0&id=1NFV5kjvhzHdhTM0fcJrwjj1k9-6Qe6PT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/AA%20do%20Amor.mp4?a=0&id=1NFV5kjvhzHdhTM0fcJrwjj1k9-6Qe6PT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Abracadabra.mp4
-https://educa.eu.org/api/v1/redirectdownload/Abracadabra.mp4?a=0&id=1NMEqaLPoL6t76NM3I-7uh2f12Qt90Aq5
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Abracadabra.mp4?a=0&id=1NMEqaLPoL6t76NM3I-7uh2f12Qt90Aq5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Academia de Vampiros.mp4
-https://educa.eu.org/api/v1/redirectdownload/Academia%20de%20Vampiros.mp4?a=0&id=1NRGEl22gTSoqcUQx1VbAqyw3Sg7SigRL
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Academia%20de%20Vampiros.mp4?a=0&id=1NRGEl22gTSoqcUQx1VbAqyw3Sg7SigRL
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Ace Ventura 2 Um Maluco na África.mp4
-https://educa.eu.org/api/v1/redirectdownload/Ace%20Ventura%202%20Um%20Maluco%20na%20%C3%81frica.mp4?a=0&id=1NUQ9QMOQ0m2hERtj4PJSlU6Bn6dzWw8V
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Ace%20Ventura%202%20Um%20Maluco%20na%20%C3%81frica.mp4?a=0&id=1NUQ9QMOQ0m2hERtj4PJSlU6Bn6dzWw8V
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Ace Ventura Um Detetive Diferente.mp4
-https://educa.eu.org/api/v1/redirectdownload/Ace%20Ventura%20Um%20Detetive%20Diferente.mp4?a=0&id=1NdNLeA3EgIBXzjSp1FGDDJQIpzmWaA3z
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Ace%20Ventura%20Um%20Detetive%20Diferente.mp4?a=0&id=1NdNLeA3EgIBXzjSp1FGDDJQIpzmWaA3z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Acho Que Matei Minha Chefe.mp4
-https://educa.eu.org/api/v1/redirectdownload/Acho%20Que%20Matei%20Minha%20Chefe.mp4?a=0&id=1No_-8OcKIme4iBEGR9nlhfjGg2U2kI6W
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Acho%20Que%20Matei%20Minha%20Chefe.mp4?a=0&id=1No_-8OcKIme4iBEGR9nlhfjGg2U2kI6W
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Adam e Seus Clones.mp4
-https://educa.eu.org/api/v1/redirectdownload/Adam%20e%20Seus%20Clones.mp4?a=0&id=1NsTJ-aLJWwLhSILcc_8H72Lzhds2JsQk
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Adam%20e%20Seus%20Clones.mp4?a=0&id=1NsTJ-aLJWwLhSILcc_8H72Lzhds2JsQk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Agente 86.mp4
-https://educa.eu.org/api/v1/redirectdownload/Agente%2086.mp4?a=0&id=1OEr3o-07CFSFsMHbaofNbdBlYgW8G1TW
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Agente%2086.mp4?a=0&id=1OEr3o-07CFSFsMHbaofNbdBlYgW8G1TW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Ainda Muito Loucos.mp4
-https://educa.eu.org/api/v1/redirectdownload/Ainda%20Muito%20Loucos.mp4?a=0&id=1ORHO-LUHnNrtr4jEd2VDU4zkWYvp1lQs
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Ainda%20Muito%20Loucos.mp4?a=0&id=1ORHO-LUHnNrtr4jEd2VDU4zkWYvp1lQs
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amantes e Traições.mp4
-https://educa.eu.org/api/v1/redirectdownload/Amantes%20e%20Trai%C3%A7%C3%B5es.mp4?a=0&id=1P8EpcAapU2YgJUBfJQVUYYwusmeh6lhr
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Amantes%20e%20Trai%C3%A7%C3%B5es.mp4?a=0&id=1P8EpcAapU2YgJUBfJQVUYYwusmeh6lhr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", American Pie 2 A Segunda Vez e Ainda Melhor.mp4
-https://educa.eu.org/api/v1/redirectdownload/American%20Pie%202%20A%20Segunda%20Vez%20e%20Ainda%20Melhor.mp4?a=0&id=1P8Weu8_0-L46aWgWnV4pJmIhMNH1gz-H
+https://m3u.araujo.eu.org/api/v1/redirectdownload/American%20Pie%202%20A%20Segunda%20Vez%20e%20Ainda%20Melhor.mp4?a=0&id=1P8Weu8_0-L46aWgWnV4pJmIhMNH1gz-H
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", American Pie A Primeira Vez e Inesquecivel.mp4
-https://educa.eu.org/api/v1/redirectdownload/American%20Pie%20A%20Primeira%20Vez%20e%20Inesquecivel.mp4?a=0&id=1PJDKweNedca3v9B6IzitRbqZBLZ13MMT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/American%20Pie%20A%20Primeira%20Vez%20e%20Inesquecivel.mp4?a=0&id=1PJDKweNedca3v9B6IzitRbqZBLZ13MMT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", American Pie Caindo em Tentacao.mp4
-https://educa.eu.org/api/v1/redirectdownload/American%20Pie%20Caindo%20em%20Tentacao.mp4?a=0&id=1PLIToDlx-0DanmQRct8SqiEtZ0cze6m5
+https://m3u.araujo.eu.org/api/v1/redirectdownload/American%20Pie%20Caindo%20em%20Tentacao.mp4?a=0&id=1PLIToDlx-0DanmQRct8SqiEtZ0cze6m5
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amigos para Sempre.mp4
-https://educa.eu.org/api/v1/redirectdownload/Amigos%20para%20Sempre.mp4?a=0&id=1PgEa9mI874YNDrVhF-MdfAmwVw4uVnao
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Amigos%20para%20Sempre.mp4?a=0&id=1PgEa9mI874YNDrVhF-MdfAmwVw4uVnao
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amor com Data Marcada.mp4
-https://educa.eu.org/api/v1/redirectdownload/Amor%20com%20Data%20Marcada.mp4?a=0&id=1PntZ7KEOAliHuBzBZuq3yiq5HbNm6oze
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Amor%20com%20Data%20Marcada.mp4?a=0&id=1PntZ7KEOAliHuBzBZuq3yiq5HbNm6oze
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amor de Aluguel.mp4
-https://educa.eu.org/api/v1/redirectdownload/Amor%20de%20Aluguel.mp4?a=0&id=1PoXQxKfgk7uIlQuopVj-bKr-Vh3DAu3u
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Amor%20de%20Aluguel.mp4?a=0&id=1PoXQxKfgk7uIlQuopVj-bKr-Vh3DAu3u
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amor e a Máfia.mp4
-https://educa.eu.org/api/v1/redirectdownload/Amor%20e%20a%20M%C3%A1fia.mp4?a=0&id=1PtGatcVnq-Ut_BCgIsnRKQJCdbvMfjYH
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Amor%20e%20a%20M%C3%A1fia.mp4?a=0&id=1PtGatcVnq-Ut_BCgIsnRKQJCdbvMfjYH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/dotty/80/4a90e2/movie-projector.png" group-title="Filmes | Diversos", Amor em Little Italy.mp4
-https://educa.eu.org/api/v1/redirectdownload/Amor%20em%20Little%20Italy.mp4?a=0&id=1Q4rQRiSfzO1-Neo7GQFYPS3Sy2oMSuZy
+https://m3u.araujo.eu.org/api/v1/redirectdownload/Amor%20em%20Little%20Italy.mp4?a=0&id=1Q4rQRiSfzO1-Neo7GQFYPS3Sy2oMSuZy
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/oKJh6X4kadnfPBKj9DvKwz68Cn_big.jpg" group-title="Filmes | Ação",Esquadrao Suicida
 http://b5.vc:80/movie/Qtv4AT6FC7/1607740720/100000.mp4
 

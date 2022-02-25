@@ -2,128 +2,128 @@
 #EXTENC: UTF-8
 #PLAYLIST: Base Nacional Comum Curricular (43836)
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 1.1 - Introdução.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.1%20-%20Introdu%C3%A7%C3%A3o.mp4?a=0&id=1DYtB5Ceh6t-iL7aypJmtO2FMWpsW4gXD
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.1%20-%20Introdu%C3%A7%C3%A3o.mp4?a=0&id=1DYtB5Ceh6t-iL7aypJmtO2FMWpsW4gXD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 1.2 - Estrutura Geral da Base.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.2%20-%20Estrutura%20Geral%20da%20Base.mp4?a=0&id=1MYUhBdBYuunm8I3iF5w8hL9qPCoi03w2
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.2%20-%20Estrutura%20Geral%20da%20Base.mp4?a=0&id=1MYUhBdBYuunm8I3iF5w8hL9qPCoi03w2
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 1.3 - Etapa Educação Infantil.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.3%20-%20Etapa%20Educa%C3%A7%C3%A3o%20Infantil.mp4?a=0&id=16vyWlTr_E1PX3Z7weUzlSH0-8Ja_K4NS
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.3%20-%20Etapa%20Educa%C3%A7%C3%A3o%20Infantil.mp4?a=0&id=16vyWlTr_E1PX3Z7weUzlSH0-8Ja_K4NS
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 1.4 - Etapa Ensino Fundamental - Contexto.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.4%20-%20Etapa%20Ensino%20Fundamental%20-%20Contexto.mp4?a=0&id=1ncaRzmo-4KfozySRymvGztHoLHu5JQ6m
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.4%20-%20Etapa%20Ensino%20Fundamental%20-%20Contexto.mp4?a=0&id=1ncaRzmo-4KfozySRymvGztHoLHu5JQ6m
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 1.5 - Etapa Ensino Fundamental - Área da Linguagem - Lingua Portuguesa Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Lingua%20Portuguesa%20Anos%20Iniciais.mp4?a=0&id=1lMmxj_WlSPDcHtKNMhqGAzbsyLV7L21c
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Lingua%20Portuguesa%20Anos%20Iniciais.mp4?a=0&id=1lMmxj_WlSPDcHtKNMhqGAzbsyLV7L21c
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 2.1 - Etapa Ensino Fundamental - Área da Linguagem - Lingua Portuguesa Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Lingua%20Portuguesa%20Anos%20Finais.mp4?a=0&id=14P0Lk3xMYA3QEL-k04wqdcE0qS--8FP0
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Lingua%20Portuguesa%20Anos%20Finais.mp4?a=0&id=14P0Lk3xMYA3QEL-k04wqdcE0qS--8FP0
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 2.2 - Etapa Ensino Fundamental - Área da Linguagem - Artes - Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.2%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Artes%20-%20Anos%20Iniciais.mp4?a=0&id=1j8BjkPdk7AYGURKs4lTUx__Jflj6QQEr
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.2%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Artes%20-%20Anos%20Iniciais.mp4?a=0&id=1j8BjkPdk7AYGURKs4lTUx__Jflj6QQEr
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 2.3 - Etapa Ensino Fundamental - Área da Linguagem - Artes - Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.3%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Artes%20-%20Anos%20Finais.mp4?a=0&id=1toj7E6UqwTIvt6-9wFMxAV6Lze8awWUT
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.3%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Artes%20-%20Anos%20Finais.mp4?a=0&id=1toj7E6UqwTIvt6-9wFMxAV6Lze8awWUT
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 2.4 - Etapa Ensino Fundamental - Área da Linguagem - Educação Física Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.4%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Educa%C3%A7%C3%A3o%20F%C3%ADsica%20Anos%20Iniciais.mp4?a=0&id=1pqjMlRMG4Yly79YM61GvW9zq4f-tFuvD
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.4%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Educa%C3%A7%C3%A3o%20F%C3%ADsica%20Anos%20Iniciais.mp4?a=0&id=1pqjMlRMG4Yly79YM61GvW9zq4f-tFuvD
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 2.5 - Etapa Ensino Fundamental - Área da Linguagem - Educação Física Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Educa%C3%A7%C3%A3o%20F%C3%ADsica%20Anos%20Finais.mp4?a=0&id=1o2no3rketyXTCc8YaaTj98era_WXF47x
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Educa%C3%A7%C3%A3o%20F%C3%ADsica%20Anos%20Finais.mp4?a=0&id=1o2no3rketyXTCc8YaaTj98era_WXF47x
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 3.1 - Etapa Ensino Fundamental - Área da Linguagem - Lingua Inglesa - Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Lingua%20Inglesa%20-%20Anos%20Finais.mp4?a=0&id=1fV5OyO0KzgN-CbEeMNpgEvXeH8TJmPLM
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Linguagem%20-%20Lingua%20Inglesa%20-%20Anos%20Finais.mp4?a=0&id=1fV5OyO0KzgN-CbEeMNpgEvXeH8TJmPLM
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 3.2 - Etapa Ensino Fundamental - Área da Matemática- Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.2%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Matem%C3%A1tica-%20Anos%20Iniciais.mp4?a=0&id=1rOu4brDqvSkkbbbpwdLaR8zjW8dABD3M
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.2%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Matem%C3%A1tica-%20Anos%20Iniciais.mp4?a=0&id=1rOu4brDqvSkkbbbpwdLaR8zjW8dABD3M
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 3.3 - Etapa Ensino Fundamental - Área da Matemática- Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.3%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Matem%C3%A1tica-%20Anos%20Finais.mp4?a=0&id=1F_nGjDloj0U_RBwU-La5sE88NVJuPTC8
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.3%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Matem%C3%A1tica-%20Anos%20Finais.mp4?a=0&id=1F_nGjDloj0U_RBwU-La5sE88NVJuPTC8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 3.4 - Etapa Ensino Fundamental - Área da Ciências da Natureza- Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.4%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20da%20Natureza-%20Anos%20Iniciais.mp4?a=0&id=1dXVQggYgOAORIuAENGKQzLM23DUaPtOA
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.4%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20da%20Natureza-%20Anos%20Iniciais.mp4?a=0&id=1dXVQggYgOAORIuAENGKQzLM23DUaPtOA
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 3.5 - Etapa Ensino Fundamental - Área da Ciências da Natureza- Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20da%20Natureza-%20Anos%20Finais.mp4?a=0&id=1FL7cRUilpQjiZ4lz3-Cf-EyDH2DGmzNm
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20da%20Natureza-%20Anos%20Finais.mp4?a=0&id=1FL7cRUilpQjiZ4lz3-Cf-EyDH2DGmzNm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 4.1 - Etapa Ensino Fundamental - Área da Ciências Humanas - Geografia- Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Geografia-%20Anos%20Iniciais.mp4?a=0&id=1IVAUhWJ64ftupPkXzOdsfl-Giil_hT_k
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Geografia-%20Anos%20Iniciais.mp4?a=0&id=1IVAUhWJ64ftupPkXzOdsfl-Giil_hT_k
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 4.2 - Etapa Ensino Fundamental - Área da Ciências Humanas - Geografia - Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.2%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Geografia%20-%20Anos%20Finais.mp4?a=0&id=1cS07S4qowO7dIXcR2sVae9Ti5BRlOQq9
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.2%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Geografia%20-%20Anos%20Finais.mp4?a=0&id=1cS07S4qowO7dIXcR2sVae9Ti5BRlOQq9
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 4.3 - Etapa Ensino Fundamental - Área da Ciências Humanas - História- Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.3%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Hist%C3%B3ria-%20Anos%20Iniciais.mp4?a=0&id=1kFM_kp0dJf_YaHksFeViv8aMqsJJTsdv
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.3%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Hist%C3%B3ria-%20Anos%20Iniciais.mp4?a=0&id=1kFM_kp0dJf_YaHksFeViv8aMqsJJTsdv
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 4.4 - Etapa Ensino Fundamental - Área da Ciências Humanas - História- Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.4%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Hist%C3%B3ria-%20Anos%20Finais.mp4?a=0&id=17IpSO9Xbzn_tic3j8KrAIUKSV_Dfs9py
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.4%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20da%20Ci%C3%AAncias%20Humanas%20-%20Hist%C3%B3ria-%20Anos%20Finais.mp4?a=0&id=17IpSO9Xbzn_tic3j8KrAIUKSV_Dfs9py
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 4.5 - Etapa Ensino Fundamental - Área Ensino Religioso- Anos Iniciais.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20Ensino%20Religioso-%20Anos%20Iniciais.mp4?a=0&id=1iPXbjt03V8x_d8d9ZIWX2RG-rhYPj8fe
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.5%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20Ensino%20Religioso-%20Anos%20Iniciais.mp4?a=0&id=1iPXbjt03V8x_d8d9ZIWX2RG-rhYPj8fe
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 5.1 - Etapa Ensino Fundamental - Área Ensino Religioso - Anos Finais.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20Ensino%20Religioso%20-%20Anos%20Finais.mp4?a=0&id=1QaTe9vY6qmWKFodz05Z8pZGKUOpTsM_a
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.1%20-%20Etapa%20Ensino%20Fundamental%20-%20%C3%81rea%20Ensino%20Religioso%20-%20Anos%20Finais.mp4?a=0&id=1QaTe9vY6qmWKFodz05Z8pZGKUOpTsM_a
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 5.2 - Etapa Ensino Médio - Contexto na Educação Básica.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.2%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20Contexto%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica.mp4?a=0&id=1IjwNYTXEzMLu_cGMfaYTXDeB7ejG3iYx
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.2%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20Contexto%20na%20Educa%C3%A7%C3%A3o%20B%C3%A1sica.mp4?a=0&id=1IjwNYTXEzMLu_cGMfaYTXDeB7ejG3iYx
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 5.3 - Etapa Ensino Médio - Áreas Linguagens e Suas Tecnologias.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.3%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81reas%20Linguagens%20e%20Suas%20Tecnologias.mp4?a=0&id=18GtLb5CQKkEHh9pvwsBGnyJKw8TmWq1G
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.3%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81reas%20Linguagens%20e%20Suas%20Tecnologias.mp4?a=0&id=18GtLb5CQKkEHh9pvwsBGnyJKw8TmWq1G
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 5.4 - Etapa Ensino Médio - Área Matemática e Suas Tecnologias.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.4%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81rea%20Matem%C3%A1tica%20e%20Suas%20Tecnologias.mp4?a=0&id=18kMkt0_O4L4Gv8afT_xRs9jh9dYCvESm
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.4%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81rea%20Matem%C3%A1tica%20e%20Suas%20Tecnologias.mp4?a=0&id=18kMkt0_O4L4Gv8afT_xRs9jh9dYCvESm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 5.5 - Etapa Ensino Médio - Área Ciências da Natureza e Suas Tecnologias.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.5%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81rea%20Ci%C3%AAncias%20da%20Natureza%20e%20Suas%20Tecnologias.mp4?a=0&id=1fA2E1PfZF4kpwhrvpHC5fKOvEV9jFtPQ
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.5%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81rea%20Ci%C3%AAncias%20da%20Natureza%20e%20Suas%20Tecnologias.mp4?a=0&id=1fA2E1PfZF4kpwhrvpHC5fKOvEV9jFtPQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="B.N.C.C", 5.6 - Etapa Ensino Médio - Área Ciências Humanas Aplicadas.mp4
-https://educa.eu.org/api/v1/redirectdownload/5.6%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81rea%20Ci%C3%AAncias%20Humanas%20Aplicadas.mp4?a=0&id=11KUVHKMl6_B_2mMFS87MMpsot85gVlUH
+https://m3u.araujo.eu.org/api/v1/redirectdownload/5.6%20-%20Etapa%20Ensino%20M%C3%A9dio%20-%20%C3%81rea%20Ci%C3%AAncias%20Humanas%20Aplicadas.mp4?a=0&id=11KUVHKMl6_B_2mMFS87MMpsot85gVlUH
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Conhecimentos Pedagógicos (43835)
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 1.1 - Conhecimentos pedagógicos.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.1%20-%20Conhecimentos%20pedag%C3%B3gicos.mp4?a=0&id=1DuaGdYr0oEAs0805Vyh0ZCEokvsKdTFc
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.1%20-%20Conhecimentos%20pedag%C3%B3gicos.mp4?a=0&id=1DuaGdYr0oEAs0805Vyh0ZCEokvsKdTFc
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 1.2 - o pensamento pedagógico moderno- iluminista, positivista.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.2%20-%20o%20pensamento%20pedag%C3%B3gico%20moderno-%20iluminista,%20positivista.mp4?a=0&id=13Its3xbEWm8aK3tipsoDA8WqtwleCC2q
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.2%20-%20o%20pensamento%20pedag%C3%B3gico%20moderno-%20iluminista,%20positivista.mp4?a=0&id=13Its3xbEWm8aK3tipsoDA8WqtwleCC2q
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 1.3 - o pensamento pedagógico moderno-socialista, escolanovista.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.3%20-%20o%20pensamento%20pedag%C3%B3gico%20moderno-socialista,%20escolanovista.mp4?a=0&id=1ZNyKrfb9tS1Shzy1pG0ZYuX8s7ktIqqq
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.3%20-%20o%20pensamento%20pedag%C3%B3gico%20moderno-socialista,%20escolanovista.mp4?a=0&id=1ZNyKrfb9tS1Shzy1pG0ZYuX8s7ktIqqq
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 1.4 - o pensamento pedagógico moderno- fenomenológico-existencialista, antiautoritário, crítico.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.4%20-%20o%20pensamento%20pedag%C3%B3gico%20moderno-%20fenomenol%C3%B3gico-existencialista,%20antiautorit%C3%A1rio,%20cr%C3%ADtico.mp4?a=0&id=1EW3-rfuUv705pBvo706WX_u4u2_HjuRW
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.4%20-%20o%20pensamento%20pedag%C3%B3gico%20moderno-%20fenomenol%C3%B3gico-existencialista,%20antiautorit%C3%A1rio,%20cr%C3%ADtico.mp4?a=0&id=1EW3-rfuUv705pBvo706WX_u4u2_HjuRW
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 1.5 - liberais e progressistas.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.5%20-%20liberais%20e%20progressistas.mp4?a=0&id=1bIkQwn3s0srvYJZ_92e41UEUy_3FtGZb
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.5%20-%20liberais%20e%20progressistas.mp4?a=0&id=1bIkQwn3s0srvYJZ_92e41UEUy_3FtGZb
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 2.1 - correntes e tendências na prática escolar.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.1%20-%20correntes%20e%20tend%C3%AAncias%20na%20pr%C3%A1tica%20escolar.mp4?a=0&id=1xLDbKjDqCjG6HdQIQBZBHDl-hLL1aLHk
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.1%20-%20correntes%20e%20tend%C3%AAncias%20na%20pr%C3%A1tica%20escolar.mp4?a=0&id=1xLDbKjDqCjG6HdQIQBZBHDl-hLL1aLHk
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 2.2 - as bases sociológicas da Educação, a Educação como processo social,.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.2%20-%20as%20bases%20sociol%C3%B3gicas%20da%20Educa%C3%A7%C3%A3o,%20a%20Educa%C3%A7%C3%A3o%20como%20processo%20social,.mp4?a=0&id=1foYdBSVdslzEM8etamfm-HwnmhNoU45A
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.2%20-%20as%20bases%20sociol%C3%B3gicas%20da%20Educa%C3%A7%C3%A3o,%20a%20Educa%C3%A7%C3%A3o%20como%20processo%20social,.mp4?a=0&id=1foYdBSVdslzEM8etamfm-HwnmhNoU45A
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 2.3 - as bases sociológicas da Educação, as instituições sociais básicas, educação para o controle e p...mp4
-https://educa.eu.org/api/v1/redirectdownload/2.3%20-%20as%20bases%20sociol%C3%B3gicas%20da%20Educa%C3%A7%C3%A3o,%20as%20institui%C3%A7%C3%B5es%20sociais%20b%C3%A1sicas,%20educa%C3%A7%C3%A3o%20para%20o%20controle%20e%20p...mp4?a=0&id=1qWlgBzKJxQXqfD2_uXWR_-LPn1Cm0kmE
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.3%20-%20as%20bases%20sociol%C3%B3gicas%20da%20Educa%C3%A7%C3%A3o,%20as%20institui%C3%A7%C3%B5es%20sociais%20b%C3%A1sicas,%20educa%C3%A7%C3%A3o%20para%20o%20controle%20e%20p...mp4?a=0&id=1qWlgBzKJxQXqfD2_uXWR_-LPn1Cm0kmE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 2.4 - as bases sociológicas da Educação, cultura e organização social, desigualdades sociais, a relaçã...mp4
-https://educa.eu.org/api/v1/redirectdownload/2.4%20-%20as%20bases%20sociol%C3%B3gicas%20da%20Educa%C3%A7%C3%A3o,%20cultura%20e%20organiza%C3%A7%C3%A3o%20social,%20desigualdades%20sociais,%20a%20rela%C3%A7%C3%A3...mp4?a=0&id=1Ep-O0oMsoL3Zba8KQEF2G66Ek9eLKIEt
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.4%20-%20as%20bases%20sociol%C3%B3gicas%20da%20Educa%C3%A7%C3%A3o,%20cultura%20e%20organiza%C3%A7%C3%A3o%20social,%20desigualdades%20sociais,%20a%20rela%C3%A7%C3%A3...mp4?a=0&id=1Ep-O0oMsoL3Zba8KQEF2G66Ek9eLKIEt
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 2.5 - Educação e Sociedade no Brasil.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.5%20-%20Educa%C3%A7%C3%A3o%20e%20Sociedade%20no%20Brasil.mp4?a=0&id=1at9X3SjT32Ns6vo8ftpRaGTqIKSUuFda
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.5%20-%20Educa%C3%A7%C3%A3o%20e%20Sociedade%20no%20Brasil.mp4?a=0&id=1at9X3SjT32Ns6vo8ftpRaGTqIKSUuFda
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 3.1 - a relação desenvolvimento - aprendizagem- diferentes abordagens, a relação pens amento - linguagem.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.1%20-%20a%20rela%C3%A7%C3%A3o%20desenvolvimento%20-%20aprendizagem-%20diferentes%20abordagens,%20a%20rela%C3%A7%C3%A3o%20pens%20amento%20-%20linguagem.mp4?a=0&id=1_14n_wLf4I4fNmMRH4teJVfQHU1wpM7F
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.1%20-%20a%20rela%C3%A7%C3%A3o%20desenvolvimento%20-%20aprendizagem-%20diferentes%20abordagens,%20a%20rela%C3%A7%C3%A3o%20pens%20amento%20-%20linguagem.mp4?a=0&id=1_14n_wLf4I4fNmMRH4teJVfQHU1wpM7F
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 3.2 - a relação desenvolvimento - aprendizagem- a formação de conceitos, crescimento.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.2%20-%20a%20rela%C3%A7%C3%A3o%20desenvolvimento%20-%20aprendizagem-%20a%20forma%C3%A7%C3%A3o%20de%20conceitos,%20crescimento.mp4?a=0&id=1UIcKAHfuB31rhqJBZ4BlW9SCfXTkh0EU
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.2%20-%20a%20rela%C3%A7%C3%A3o%20desenvolvimento%20-%20aprendizagem-%20a%20forma%C3%A7%C3%A3o%20de%20conceitos,%20crescimento.mp4?a=0&id=1UIcKAHfuB31rhqJBZ4BlW9SCfXTkh0EU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 3.3 - a relação desenvolvimento - aprendizagem- desenvolvimento- o biológico, o psicológico e o social.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.3%20-%20a%20rela%C3%A7%C3%A3o%20desenvolvimento%20-%20aprendizagem-%20desenvolvimento-%20o%20biol%C3%B3gico,%20o%20psicol%C3%B3gico%20e%20o%20social.mp4?a=0&id=1SrwEnCevO_HnSF9SCPcRUmbbwtjEIJ6Z
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.3%20-%20a%20rela%C3%A7%C3%A3o%20desenvolvimento%20-%20aprendizagem-%20desenvolvimento-%20o%20biol%C3%B3gico,%20o%20psicol%C3%B3gico%20e%20o%20social.mp4?a=0&id=1SrwEnCevO_HnSF9SCPcRUmbbwtjEIJ6Z
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 3.4 - O desenvolvimento cognitivo e afetivo.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.4%20-%20O%20desenvolvimento%20cognitivo%20e%20afetivo.mp4?a=0&id=1xkb8reQqJXpJgSCtlTdgZK3M3kSRYmWN
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.4%20-%20O%20desenvolvimento%20cognitivo%20e%20afetivo.mp4?a=0&id=1xkb8reQqJXpJgSCtlTdgZK3M3kSRYmWN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 3.5 - a formação do professor a avaliação como processo.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.5%20-%20a%20forma%C3%A7%C3%A3o%20do%20professor%20a%20avalia%C3%A7%C3%A3o%20como%20processo.mp4?a=0&id=1vMO3ZArBIOXwK_iYLcBY5FYu8E1epIEH
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.5%20-%20a%20forma%C3%A7%C3%A3o%20do%20professor%20a%20avalia%C3%A7%C3%A3o%20como%20processo.mp4?a=0&id=1vMO3ZArBIOXwK_iYLcBY5FYu8E1epIEH
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 4.1 - a formação do professor a relação professor - aluno.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.1%20-%20a%20forma%C3%A7%C3%A3o%20do%20professor%20a%20rela%C3%A7%C3%A3o%20professor%20-%20aluno.mp4?a=0&id=1AQse5GQG0QIUcAB_uaj3tfZsVR3qooG8
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.1%20-%20a%20forma%C3%A7%C3%A3o%20do%20professor%20a%20rela%C3%A7%C3%A3o%20professor%20-%20aluno.mp4?a=0&id=1AQse5GQG0QIUcAB_uaj3tfZsVR3qooG8
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 4.2 - os objetivos educacionais, os conteúdos de aprendizagem.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.2%20-%20os%20objetivos%20educacionais,%20os%20conte%C3%BAdos%20de%20aprendizagem.mp4?a=0&id=15YJ7LoIb3uIoylc7fi0J5QEqiN_HV2RR
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.2%20-%20os%20objetivos%20educacionais,%20os%20conte%C3%BAdos%20de%20aprendizagem.mp4?a=0&id=15YJ7LoIb3uIoylc7fi0J5QEqiN_HV2RR
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 4.3 - o papel dos professores e dos alunos.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.3%20-%20o%20papel%20dos%20professores%20e%20dos%20alunos.mp4?a=0&id=1FnzhJlXcSFkxshkuOAc7fZ3Mqaj4fVL6
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.3%20-%20o%20papel%20dos%20professores%20e%20dos%20alunos.mp4?a=0&id=1FnzhJlXcSFkxshkuOAc7fZ3Mqaj4fVL6
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 4.4 - os direitos da criança e do adolescente.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.4%20-%20os%20direitos%20da%20crian%C3%A7a%20e%20do%20adolescente.mp4?a=0&id=182LvfhO3s9rwQ3MWeffUqMNTmTgZES4x
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.4%20-%20os%20direitos%20da%20crian%C3%A7a%20e%20do%20adolescente.mp4?a=0&id=182LvfhO3s9rwQ3MWeffUqMNTmTgZES4x
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="Conhecimentos Pedagógicos", 4.5 - a sala de aula e sua pluralidade.mp4
-https://educa.eu.org/api/v1/redirectdownload/4.5%20-%20a%20sala%20de%20aula%20e%20sua%20pluralidade.mp4?a=0&id=1gxDR6Kh_ILKuVjsvm-V-LhyPNEKqDBQl
+https://m3u.araujo.eu.org/api/v1/redirectdownload/4.5%20-%20a%20sala%20de%20aula%20e%20sua%20pluralidade.mp4?a=0&id=1gxDR6Kh_ILKuVjsvm-V-LhyPNEKqDBQl
 
 #EXTM3U
 #EXTENC: UTF-8
 #PLAYLIST: Lei de Diretrizes e Bases da Educação (43838)
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 1.1 - Títulos I,II,III - Da Educação, Princípios e Fins, Do Direito à Educação e dos Deveres .mp4
-https://educa.eu.org/api/v1/redirectdownload/1.1%20-%20T%C3%ADtulos%20I,II,III%20-%20Da%20Educa%C3%A7%C3%A3o,%20Princ%C3%ADpios%20e%20Fins,%20Do%20Direito%20%C3%A0%20Educa%C3%A7%C3%A3o%20e%20dos%20Deveres%20.mp4?a=0&id=1H6VPCMDnPpJOMoRDBN-tY3mc_BJ2_5hO
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.1%20-%20T%C3%ADtulos%20I,II,III%20-%20Da%20Educa%C3%A7%C3%A3o,%20Princ%C3%ADpios%20e%20Fins,%20Do%20Direito%20%C3%A0%20Educa%C3%A7%C3%A3o%20e%20dos%20Deveres%20.mp4?a=0&id=1H6VPCMDnPpJOMoRDBN-tY3mc_BJ2_5hO
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 1.2 - Títulos IV e V.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.2%20-%20T%C3%ADtulos%20IV%20e%20V.mp4?a=0&id=1j2maKdfdCOg_uOQvimrQLVKKQgFRpLg4
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.2%20-%20T%C3%ADtulos%20IV%20e%20V.mp4?a=0&id=1j2maKdfdCOg_uOQvimrQLVKKQgFRpLg4
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 1.3 - Seção II Educação Infantil.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.3%20-%20Se%C3%A7%C3%A3o%20II%20Educa%C3%A7%C3%A3o%20Infantil.mp4?a=0&id=1V14kHCeKfOOcMZqMOaHjK3ieOMKQUSHQ
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.3%20-%20Se%C3%A7%C3%A3o%20II%20Educa%C3%A7%C3%A3o%20Infantil.mp4?a=0&id=1V14kHCeKfOOcMZqMOaHjK3ieOMKQUSHQ
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 1.4 - Seção III - Ensino Fundamental.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.4%20-%20Se%C3%A7%C3%A3o%20III%20-%20Ensino%20Fundamental.mp4?a=0&id=1Y2crEfjpFD8PKmE9sykAYKg8BX7C_WgV
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.4%20-%20Se%C3%A7%C3%A3o%20III%20-%20Ensino%20Fundamental.mp4?a=0&id=1Y2crEfjpFD8PKmE9sykAYKg8BX7C_WgV
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 1.5 - Seção IV - Ensino Médio.mp4
-https://educa.eu.org/api/v1/redirectdownload/1.5%20-%20Se%C3%A7%C3%A3o%20IV%20-%20Ensino%20M%C3%A9dio.mp4?a=0&id=1AVIszk7u0_4O98rJmqgsTBAxS1OQFfhw
+https://m3u.araujo.eu.org/api/v1/redirectdownload/1.5%20-%20Se%C3%A7%C3%A3o%20IV%20-%20Ensino%20M%C3%A9dio.mp4?a=0&id=1AVIszk7u0_4O98rJmqgsTBAxS1OQFfhw
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 2.1 - Seção IV-A, V Educação Profissional Técnica, EJA.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.1%20-%20Se%C3%A7%C3%A3o%20IV-A,%20V%20Educa%C3%A7%C3%A3o%20Profissional%20T%C3%A9cnica,%20EJA.mp4?a=0&id=18hnlDlVNx1Z3iTPEbhMX76-AbETyulCN
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.1%20-%20Se%C3%A7%C3%A3o%20IV-A,%20V%20Educa%C3%A7%C3%A3o%20Profissional%20T%C3%A9cnica,%20EJA.mp4?a=0&id=18hnlDlVNx1Z3iTPEbhMX76-AbETyulCN
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 2.2 - Capítulo III - Educação Profissional Tecnológica.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.2%20-%20Cap%C3%ADtulo%20III%20-%20Educa%C3%A7%C3%A3o%20Profissional%20Tecnol%C3%B3gica.mp4?a=0&id=115gCGynbgJasrq3Ble_1UO_zjdLmSycm
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.2%20-%20Cap%C3%ADtulo%20III%20-%20Educa%C3%A7%C3%A3o%20Profissional%20Tecnol%C3%B3gica.mp4?a=0&id=115gCGynbgJasrq3Ble_1UO_zjdLmSycm
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 2.3 - Capítulo IV - Educação Superior.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.3%20-%20Cap%C3%ADtulo%20IV%20-%20Educa%C3%A7%C3%A3o%20Superior.mp4?a=0&id=1ID4Y6NThwPGjeUv2QNMlGcKqMWaBCAvi
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.3%20-%20Cap%C3%ADtulo%20IV%20-%20Educa%C3%A7%C3%A3o%20Superior.mp4?a=0&id=1ID4Y6NThwPGjeUv2QNMlGcKqMWaBCAvi
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 2.4 - Capítulo V - Educação Especial.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.4%20-%20Cap%C3%ADtulo%20V%20-%20Educa%C3%A7%C3%A3o%20Especial.mp4?a=0&id=1PVzplHiQMW2bu8PbU2D6LmI-pGtTbctX
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.4%20-%20Cap%C3%ADtulo%20V%20-%20Educa%C3%A7%C3%A3o%20Especial.mp4?a=0&id=1PVzplHiQMW2bu8PbU2D6LmI-pGtTbctX
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 2.5 - Título VI - Profissionais da Educação.mp4
-https://educa.eu.org/api/v1/redirectdownload/2.5%20-%20T%C3%ADtulo%20VI%20-%20Profissionais%20da%20Educa%C3%A7%C3%A3o.mp4?a=0&id=16WQrjxt0VtAt-YQtY2r6j9N89qwGiZXE
+https://m3u.araujo.eu.org/api/v1/redirectdownload/2.5%20-%20T%C3%ADtulo%20VI%20-%20Profissionais%20da%20Educa%C3%A7%C3%A3o.mp4?a=0&id=16WQrjxt0VtAt-YQtY2r6j9N89qwGiZXE
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 3.1 - Título VII- Recursos Financeiros.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.1%20-%20T%C3%ADtulo%20VII-%20Recursos%20Financeiros.mp4?a=0&id=1Oz4fjywVh5U-dKXmUPtGWorBtfqfiiMU
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.1%20-%20T%C3%ADtulo%20VII-%20Recursos%20Financeiros.mp4?a=0&id=1Oz4fjywVh5U-dKXmUPtGWorBtfqfiiMU
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 3.2 - Título VIII - Disposições Gerais.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.2%20-%20T%C3%ADtulo%20VIII%20-%20Disposi%C3%A7%C3%B5es%20Gerais.mp4?a=0&id=16tOgc5BYdp3Fkyklvs_MzWJhF_oYDHG3
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.2%20-%20T%C3%ADtulo%20VIII%20-%20Disposi%C3%A7%C3%B5es%20Gerais.mp4?a=0&id=16tOgc5BYdp3Fkyklvs_MzWJhF_oYDHG3
 #EXTINF:-1 tvg-logo="https://img.icons8.com/ios/50/4a90e2/school.png" group-title="LDB", 3.3 - Título IX - Disposições Transitórias.mp4
-https://educa.eu.org/api/v1/redirectdownload/3.3%20-%20T%C3%ADtulo%20IX%20-%20Disposi%C3%A7%C3%B5es%20Transit%C3%B3rias.mp4?a=0&id=11wf_cZdcpfsmWA_EKKRgzNKXAWyORNze
+https://m3u.araujo.eu.org/api/v1/redirectdownload/3.3%20-%20T%C3%ADtulo%20IX%20-%20Disposi%C3%A7%C3%B5es%20Transit%C3%B3rias.mp4?a=0&id=11wf_cZdcpfsmWA_EKKRgzNKXAWyORNze
